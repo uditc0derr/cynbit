@@ -1,0 +1,169 @@
+/* Shared hero shell. Visual language follows the live site (soft aqua washes,
+   big radii, tight display type) without copying its artwork. */
+
+.page-hero {
+  position: relative;
+  isolation: isolate;
+  padding-block: clamp(6.5rem, 9vw, 9.5rem) clamp(4rem, 7vw, 7rem);
+  padding-inline: clamp(1rem, 3vw, 3rem);
+  overflow: visible;
+}
+
+.page-hero--warm {
+  --page-accent: var(--color-tertiary);
+  --page-accent-soft: var(--color-tertiary-fixed);
+}
+
+.page-hero--cool {
+  --page-accent: var(--color-primary);
+  --page-accent-soft: var(--color-primary-fixed);
+}
+
+/* Only the decorative layer is clipped. Copy is never inside it. */
+.page-hero__backdrop {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.page-hero__wash {
+  position: absolute;
+  width: min(62rem, 90vw);
+  aspect-ratio: 1;
+  border-radius: 9999px;
+  opacity: 0.55;
+}
+
+.page-hero__wash--a {
+  top: -38%;
+  right: -18%;
+  background: radial-gradient(
+    circle,
+    color-mix(in srgb, var(--page-accent) 14%, transparent) 0%,
+    transparent 66%
+  );
+}
+
+.page-hero__wash--b {
+  bottom: -46%;
+  left: -22%;
+  background: radial-gradient(
+    circle,
+    color-mix(in srgb, var(--page-accent-soft) 42%, transparent) 0%,
+    transparent 68%
+  );
+}
+
+.page-hero__grid {
+  position: absolute;
+  inset: 0;
+  opacity: 0.35;
+  background-image:
+    linear-gradient(to right, rgba(24, 28, 29, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(24, 28, 29, 0.04) 1px, transparent 1px);
+  background-size: 92px 92px;
+  mask-image: radial-gradient(circle at 50% 40%, black, transparent 72%);
+}
+
+.page-hero__inner {
+  position: relative;
+  max-width: 90rem;
+  margin-inline: auto;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(2.5rem, 5vw, 5rem);
+}
+
+.page-hero__copy {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.page-hero--centre .page-hero__copy {
+  align-items: center;
+  text-align: center;
+  max-width: 58rem;
+  margin-inline: auto;
+}
+
+.page-hero__heading {
+  margin: 0;
+  overflow: visible;
+  color: var(--color-on-surface);
+}
+
+.page-hero__subtext {
+  max-width: 40rem;
+  font-size: clamp(1rem, 0.55rem + 0.85vw, 1.25rem);
+  line-height: 1.65;
+  font-weight: 500;
+  color: var(--color-on-surface-variant);
+  margin: 0;
+}
+
+.page-hero--centre .page-hero__subtext {
+  max-width: 46rem;
+}
+
+.page-hero__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: center;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-on-surface-variant);
+}
+
+.page-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.875rem;
+  margin-top: 0.75rem;
+}
+
+.page-hero__visual {
+  position: relative;
+  min-width: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Extra breathing room so satellite chips and glass notes never sit on a
+     neighbouring column. This replaces the live site's negative offsets. */
+  padding: clamp(0.5rem, 2vw, 1.5rem);
+}
+
+.page-hero--centre .page-hero__visual {
+  margin-top: 1rem;
+}
+
+@media (min-width: 1024px) {
+  .page-hero--split .page-hero__inner {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+  }
+
+  .page-hero--centre .page-hero__inner {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 639px) {
+  .page-hero {
+    padding-block: 6.75rem 3.5rem;
+  }
+
+  .page-hero__actions {
+    width: 100%;
+  }
+
+  .page-hero__actions a {
+    flex: 1 1 auto;
+    justify-content: center;
+  }
+}

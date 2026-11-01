@@ -1,0 +1,519 @@
+[
+  {
+    "page": "home",
+    "route": "/",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 8726,
+    "offenders": []
+  },
+  {
+    "page": "home",
+    "route": "/",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 10780,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "home",
+    "route": "/",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 14941,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "services",
+    "route": "/services",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 5340,
+    "offenders": []
+  },
+  {
+    "page": "services",
+    "route": "/services",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 7140,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "services",
+    "route": "/services",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 9640,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "products",
+    "route": "/products",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 8180,
+    "offenders": []
+  },
+  {
+    "page": "products",
+    "route": "/products",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 10207,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "products",
+    "route": "/products",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 13365,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "case-studies",
+    "route": "/case-studies",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 6335,
+    "offenders": []
+  },
+  {
+    "page": "case-studies",
+    "route": "/case-studies",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 6720,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "case-studies",
+    "route": "/case-studies",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 9941,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "bitelevate",
+    "route": "/bitelevate",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 8357,
+    "offenders": []
+  },
+  {
+    "page": "bitelevate",
+    "route": "/bitelevate",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 11571,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "bitelevate",
+    "route": "/bitelevate",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 13615,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "bitelevate-paths",
+    "route": "/bitelevate/paths",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 3761,
+    "offenders": []
+  },
+  {
+    "page": "bitelevate-paths",
+    "route": "/bitelevate/paths",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 6310,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "bitelevate-paths",
+    "route": "/bitelevate/paths",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 6143,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "contact",
+    "route": "/contact",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 4467,
+    "offenders": []
+  },
+  {
+    "page": "contact",
+    "route": "/contact",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 6044,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "contact",
+    "route": "/contact",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 6629,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "blog",
+    "route": "/blog",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 4137,
+    "offenders": []
+  },
+  {
+    "page": "blog",
+    "route": "/blog",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 5417,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "blog",
+    "route": "/blog",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 6894,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "careers",
+    "route": "/careers",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 6791,
+    "offenders": []
+  },
+  {
+    "page": "careers",
+    "route": "/careers",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 8034,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "careers",
+    "route": "/careers",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 11634,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "impact",
+    "route": "/impact",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 3842,
+    "offenders": []
+  },
+  {
+    "page": "impact",
+    "route": "/impact",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 5277,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "impact",
+    "route": "/impact",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 5663,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  },
+  {
+    "page": "privacy",
+    "route": "/privacy",
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "innerWidth": 1440,
+    "scrollHeight": 2740,
+    "offenders": []
+  },
+  {
+    "page": "privacy",
+    "route": "/privacy",
+    "viewport": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "innerWidth": 768,
+    "scrollHeight": 3255,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 768,
+        "right": 1536
+      }
+    ]
+  },
+  {
+    "page": "privacy",
+    "route": "/privacy",
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "innerWidth": 390,
+    "scrollHeight": 3950,
+    "offenders": [
+      {
+        "tag": "div",
+        "cls": "fixed inset-0 z-[90] bg-surface p-8 pt-32 overflow-y-auto xl:hidden transition-all duration-500 ease-in-out tr",
+        "left": 390,
+        "right": 780
+      }
+    ]
+  }
+]

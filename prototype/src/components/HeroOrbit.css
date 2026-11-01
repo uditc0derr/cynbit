@@ -1,0 +1,344 @@
+/*
+ * HeroOrbit
+ * ---------
+ * Rebuilt from the live site's glass "orbit" hero.
+ *
+ * Performance rules used here:
+ *  - Only `transform` and `opacity` are animated. The live version animates
+ *    `top` and `width` with Framer Motion, which forces layout on every frame.
+ *  - No animated blur/backdrop-filter. The glow is a static radial gradient.
+ *  - The stage has a fixed aspect ratio, so it reserves its box before paint
+ *    and cannot contribute to CLS.
+ *  - All movement pauses when the hero is off screen, the tab is hidden, or
+ *    the visitor prefers reduced motion.
+ */
+
+.orbit {
+  position: relative;
+  width: min(100%, var(--orbit-size, 560px));
+  aspect-ratio: 1 / 1;
+  margin-inline: auto;
+  isolation: isolate;
+  /* The rotating ring layers are square boxes; a rotated square's bounding box
+     is wider than the square itself, which would otherwise add scrollable
+     overflow and a horizontal scrollbar. Clip at the stage edge: every ring and
+     chip is designed to sit inside it anyway. */
+  overflow: clip;
+  /* cqw units below are relative to this box. Inline-size containment keeps the
+     orbiting chips positioned relative to the stage rather than the viewport. */
+  container-type: inline-size;
+}
+
+.orbit__halo {
+  position: absolute;
+  inset: 4%;
+  border-radius: 9999px;
+  background: radial-gradient(
+    circle at 50% 46%,
+    color-mix(in srgb, var(--orbit-accent) 16%, transparent) 0%,
+    color-mix(in srgb, var(--orbit-accent) 6%, transparent) 38%,
+    transparent 68%
+  );
+  pointer-events: none;
+}
+
+.orbit__rings {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.orbit__ring {
+  fill: none;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+}
+
+.orbit__ring--outer {
+  stroke: color-mix(in srgb, var(--orbit-accent) 12%, transparent);
+  stroke-width: 1;
+}
+
+.orbit__ring--dashed {
+  stroke: color-mix(in srgb, var(--orbit-accent) 28%, transparent);
+  stroke-width: 1.25;
+  stroke-dasharray: 2 12;
+}
+
+.orbit__ring--dotted {
+  stroke: color-mix(in srgb, var(--orbit-accent) 22%, transparent);
+  stroke-width: 1.5;
+  stroke-dasharray: 1 10;
+}
+
+.orbit__ring--arc {
+  stroke: var(--orbit-accent);
+  stroke-width: 2;
+  stroke-dasharray: 48 340;
+  opacity: 0.45;
+}
+
+.orbit__ring-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  will-change: transform;
+}
+
+.orbit__ring-layer svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.orbit__ring-layer--slow {
+  animation: orbit-spin calc(52s / var(--orbit-speed, 1)) linear infinite;
+}
+
+.orbit__ring-layer--reverse {
+  animation: orbit-spin calc(38s / var(--orbit-speed, 1)) linear infinite reverse;
+}
+
+/* Centre disc */
+.orbit__disc {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 45%;
+  aspect-ratio: 1 / 1;
+  transform: translate(-50%, -50%);
+  border-radius: 9999px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background:
+    linear-gradient(150deg, rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.58)),
+    color-mix(in srgb, var(--orbit-accent) 5%, white);
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  box-shadow:
+    0 24px 60px -28px color-mix(in srgb, var(--orbit-accent) 45%, transparent),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+.orbit__disc-icon {
+  width: 32%;
+  height: 32%;
+  color: var(--orbit-accent);
+  opacity: 0.82;
+}
+
+.orbit__disc-label {
+  font-family: var(--font-headline);
+  font-size: clamp(0.5rem, 1.1vw, 0.625rem);
+  font-weight: 800;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--orbit-accent) 75%, #181c1d);
+}
+
+.orbit__scan {
+  position: absolute;
+  left: 10%;
+  right: 10%;
+  top: 50%;
+  height: 2px;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, transparent, var(--orbit-accent), transparent);
+  opacity: 0.35;
+  animation: orbit-scan calc(6s / var(--orbit-speed, 1)) ease-in-out infinite;
+  will-change: transform;
+}
+
+/* Satellites */
+.orbit__satellite {
+  /* A zero-size arm at the centre. Rotating a zero-size box cannot create page
+     overflow; only the chip itself, which stays inside the stage. */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 0;
+  height: 0;
+  z-index: 2;
+  transform: rotate(var(--angle));
+  animation: orbit-satellite var(--duration) linear infinite;
+  animation-delay: var(--delay);
+  will-change: transform;
+}
+
+.orbit__satellite-chip {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: clamp(2.75rem, 9.5cqw, 4rem);
+  aspect-ratio: 1 / 1;
+  /* 0.41 × stage width puts the chip between the dotted and dashed rings. */
+  transform: translate(-50%, -50%) translateY(-41cqw) rotate(calc(-1 * var(--angle)));
+  animation: orbit-counter var(--duration) linear infinite;
+  animation-delay: var(--delay);
+  display: grid;
+  place-items: center;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+  box-shadow:
+    0 14px 30px -16px color-mix(in srgb, var(--orbit-accent) 55%, transparent),
+    0 0 0 5px color-mix(in srgb, var(--orbit-accent) 5%, transparent);
+  color: var(--orbit-accent);
+  will-change: transform;
+}
+
+.orbit__satellite-chip svg {
+  width: 46%;
+  height: 46%;
+}
+
+/* Small glass notes, kept inside the stage so nothing is clipped. */
+.orbit__note {
+  position: absolute;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  max-width: 42%;
+  padding: 0.625rem 0.875rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+  box-shadow: 0 18px 40px -24px color-mix(in srgb, var(--orbit-accent) 50%, transparent);
+}
+
+.orbit__note--a {
+  left: 0;
+  bottom: 10%;
+  animation: orbit-float calc(9s / var(--orbit-speed, 1)) ease-in-out infinite;
+}
+
+.orbit__note--b {
+  right: 0;
+  top: 12%;
+  animation: orbit-float calc(11s / var(--orbit-speed, 1)) ease-in-out infinite reverse;
+}
+
+.orbit__note-icon {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 1.875rem;
+  height: 1.875rem;
+  border-radius: 0.65rem;
+  background: color-mix(in srgb, var(--orbit-accent) 12%, white);
+  color: var(--orbit-accent);
+}
+
+.orbit__note-icon svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+.orbit__note-title {
+  font-family: var(--font-headline);
+  font-size: 0.5rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-on-surface-variant);
+  white-space: nowrap;
+}
+
+.orbit__note-value {
+  font-family: var(--font-headline);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  color: var(--orbit-accent);
+  white-space: nowrap;
+}
+
+/* Paused by IntersectionObserver / visibilitychange. */
+.orbit[data-paused='true'] *,
+.orbit[data-paused='true'] {
+  animation-play-state: paused !important;
+}
+
+/* Reduced motion: a calm, fully legible static constellation. */
+.orbit[data-static='true'] *,
+.orbit[data-static='true'] {
+  animation: none !important;
+}
+
+.orbit[data-static='true'] .orbit__scan {
+  display: none;
+}
+
+.orbit[data-static='true'] .orbit__ring--arc {
+  opacity: 0.35;
+}
+
+@keyframes orbit-spin {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+@keyframes orbit-scan {
+  0%,
+  100% {
+    transform: translateY(-90px);
+    opacity: 0.1;
+  }
+  50% {
+    transform: translateY(90px);
+    opacity: 0.45;
+  }
+}
+
+@keyframes orbit-satellite {
+  from {
+    transform: rotate(var(--angle));
+  }
+  to {
+    transform: rotate(calc(var(--angle) + 1turn));
+  }
+}
+
+@keyframes orbit-counter {
+  from {
+    transform: translate(-50%, -50%) translateY(-41cqw) rotate(calc(-1 * var(--angle)));
+  }
+  to {
+    transform: translate(-50%, -50%) translateY(-41cqw) rotate(calc(-1 * var(--angle) - 1turn));
+  }
+}
+
+@keyframes orbit-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* Lighter mobile variant: two notes removed, smaller chips, tighter disc. */
+@media (max-width: 639px) {
+  .orbit__note {
+    display: none;
+  }
+
+  .orbit__satellite-chip {
+    width: 2.5rem;
+    box-shadow:
+      0 10px 20px -12px color-mix(in srgb, var(--orbit-accent) 55%, transparent),
+      0 0 0 4px color-mix(in srgb, var(--orbit-accent) 5%, transparent);
+  }
+
+  .orbit__disc {
+    width: 48%;
+  }
+}

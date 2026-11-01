@@ -1,0 +1,114 @@
+[
+  {
+    "route": "/",
+    "name": "prototype-home",
+    "spanIndex": 0,
+    "text": "AI automation.",
+    "switchedText": "AI automation.",
+    "textStable": true,
+    "display": "block",
+    "fontSize": 94.08,
+    "lineHeight": 108.192,
+    "leading": 1.15,
+    "paddingBottom": 11.2896,
+    "opacity": 1,
+    "rect": {
+      "x": 43.1875,
+      "y": 390.5625,
+      "w": 626.96875,
+      "h": 119.46875
+    },
+    "clip": {
+      "x": 35,
+      "y": 381,
+      "width": 643,
+      "height": 172
+    },
+    "before": "evidence/after/descenders-proto/prototype-home-0-ai-automation--shipped.png",
+    "after": "evidence/after/descenders-proto/prototype-home-0-ai-automation--solid.png"
+  },
+  {
+    "route": "/impact",
+    "name": "prototype-impact",
+    "spanIndex": 0,
+    "text": "Society",
+    "switchedText": "Society",
+    "textStable": true,
+    "display": "inline-block",
+    "fontSize": 94.08,
+    "lineHeight": 108.192,
+    "leading": 1.15,
+    "paddingBottom": 11.2896,
+    "opacity": 1,
+    "rect": {
+      "x": 43.1875,
+      "y": 365.375,
+      "w": 328.15625,
+      "h": 119.46875
+    },
+    "clip": {
+      "x": 35,
+      "y": 355,
+      "width": 345,
+      "height": 172
+    },
+    "before": "evidence/after/descenders-proto/prototype-impact-0-society--shipped.png",
+    "after": "evidence/after/descenders-proto/prototype-impact-0-society--solid.png"
+  },
+  {
+    "route": "/privacy",
+    "name": "prototype-privacy",
+    "spanIndex": 0,
+    "text": "Policy",
+    "switchedText": "Policy",
+    "textStable": true,
+    "display": "inline-block",
+    "fontSize": 94.08,
+    "lineHeight": 108.192,
+    "leading": 1.15,
+    "paddingBottom": 11.2896,
+    "opacity": 1,
+    "rect": {
+      "x": 754.34375,
+      "y": 257.1875,
+      "w": 258.0625,
+      "h": 119.46875
+    },
+    "clip": {
+      "x": 746,
+      "y": 247,
+      "width": 275,
+      "height": 172
+    },
+    "before": "evidence/after/descenders-proto/prototype-privacy-0-policy--shipped.png",
+    "after": "evidence/after/descenders-proto/prototype-privacy-0-policy--solid.png"
+  },
+  {
+    "route": "/system",
+    "name": "prototype-system",
+    "spanIndex": 0,
+    "text": "Every page.",
+    "switchedText": "Every page.",
+    "textStable": true,
+    "display": "inline-block",
+    "fontSize": 94.08,
+    "lineHeight": 108.192,
+    "leading": 1.15,
+    "paddingBottom": 11.2896,
+    "opacity": 1,
+    "rect": {
+      "x": 467.484375,
+      "y": 365.375,
+      "w": 505.03125,
+      "h": 119.46875
+    },
+    "clip": {
+      "x": 459,
+      "y": 355,
+      "width": 522,
+      "height": 172
+    },
+    "before": "evidence/after/descenders-proto/prototype-system-0-every-page--shipped.png",
+    "after": "evidence/after/descenders-proto/prototype-system-0-every-page--solid.png"
+  }
+]

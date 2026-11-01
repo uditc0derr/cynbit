@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="PageHero prototype for Cynbit Technologies: a shared, clip-safe hero system with a performant orbit animation."
+    />
+    <meta name="theme-color" content="#f7fafa" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>Cynbit PageHero — prototype</title>
+    <!--
+      Self-hosted variable fonts, preloaded so the first paint already uses the
+      real typeface. This is what stops the layout shift the live site shows
+      when the webfont swaps in after paint.
+    -->
+    <link
+      rel="preload"
+      href="/fonts/plus-jakarta-sans-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/manrope-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

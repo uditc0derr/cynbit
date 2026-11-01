@@ -1,0 +1,474 @@
+{
+  "source": "evidence/after/descenders",
+  "note": "lostPixelsBelowBox counts ink a solid text reference paints below the element's background box that the shipped gradient does not paint.",
+  "totals": {
+    "spans": 11,
+    "spansWithLoss": 2,
+    "lostBelowBox": 825,
+    "solidBelowBox": 56996
+  },
+  "rows": [
+    {
+      "route": "/",
+      "name": "home",
+      "spanIndex": 0,
+      "text": "AI automation.",
+      "switchedText": "AI automation.",
+      "textStable": true,
+      "display": "block",
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "paddingBottom": 8,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 393.1875,
+        "w": 744,
+        "h": 113.59375
+      },
+      "clip": {
+        "x": 40,
+        "y": 383,
+        "width": 760,
+        "height": 167
+      },
+      "before": "evidence/after/descenders/home-0-ai-automation--shipped.png",
+      "after": "evidence/after/descenders/home-0-ai-automation--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 506.78,
+      "background": [
+        244,
+        248,
+        249
+      ],
+      "solidInkPixels": 85414,
+      "solidInkBelowBox": 0,
+      "lostPixels": 8922,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/home-0-ai-automation--lost.png"
+    },
+    {
+      "route": "/services",
+      "name": "services",
+      "spanIndex": 0,
+      "text": "Scale",
+      "switchedText": "Scale",
+      "textStable": true,
+      "display": "inline-block",
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 386.59375,
+        "y": 206.109375,
+        "w": 252.359375,
+        "h": 105.59375
+      },
+      "clip": {
+        "x": 378,
+        "y": 196,
+        "width": 269,
+        "height": 159
+      },
+      "before": "evidence/after/descenders/services-0-scale--shipped.png",
+      "after": "evidence/after/descenders/services-0-scale--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 311.7,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 40043,
+      "solidInkBelowBox": 4772,
+      "lostPixels": 0,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/services-0-scale--lost.png"
+    },
+    {
+      "route": "/products",
+      "name": "products",
+      "spanIndex": 0,
+      "text": "Cynbit Product",
+      "switchedText": "Cynbit Product",
+      "textStable": true,
+      "display": "inline-block",
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 307.59375,
+        "w": 668.515625,
+        "h": 105.59375
+      },
+      "clip": {
+        "x": 40,
+        "y": 297,
+        "width": 685,
+        "height": 159
+      },
+      "before": "evidence/after/descenders/products-0-cynbit-product--shipped.png",
+      "after": "evidence/after/descenders/products-0-cynbit-product--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 413.19,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 99599,
+      "solidInkBelowBox": 8437,
+      "lostPixels": 610,
+      "lostPixelsBelowBox": 610,
+      "lostPercentOfBelowBox": 7.23,
+      "deepestLostBelowBoxCss": 8.0,
+      "annotated": "evidence/after/descenders/products-0-cynbit-product--lost.png"
+    },
+    {
+      "route": "/case-studies",
+      "name": "case-studies",
+      "spanIndex": 0,
+      "text": "Scalable Solutions",
+      "switchedText": "Scalable Solutions",
+      "textStable": true,
+      "display": "inline-block",
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 344.1875,
+        "w": 744,
+        "h": 211.1875
+      },
+      "clip": {
+        "x": 40,
+        "y": 334,
+        "width": 760,
+        "height": 264
+      },
+      "before": "evidence/after/descenders/case-studies-0-scalable-solutions--shipped.png",
+      "after": "evidence/after/descenders/case-studies-0-scalable-solutions--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 555.38,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 115837,
+      "solidInkBelowBox": 471,
+      "lostPixels": 0,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/case-studies-0-scalable-solutions--lost.png"
+    },
+    {
+      "route": "/bitelevate",
+      "name": "bitelevate",
+      "spanIndex": 0,
+      "text": "Start Doing the Work.",
+      "switchedText": "Start Doing the Work.",
+      "textStable": true,
+      "display": "inline-block",
+      "fontSize": 54.4,
+      "lineHeight": 58.752,
+      "leading": 1.08,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 394.125,
+        "w": 554.953125,
+        "h": 58.75
+      },
+      "clip": {
+        "x": 43,
+        "y": 388,
+        "width": 565,
+        "height": 89
+      },
+      "before": "evidence/after/descenders/bitelevate-0-start-doing-the-work--shipped.png",
+      "after": "evidence/after/descenders/bitelevate-0-start-doing-the-work--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 452.88,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 43876,
+      "solidInkBelowBox": 258,
+      "lostPixels": 215,
+      "lostPixelsBelowBox": 215,
+      "lostPercentOfBelowBox": 83.33,
+      "deepestLostBelowBoxCss": 3.5,
+      "annotated": "evidence/after/descenders/bitelevate-0-start-doing-the-work--lost.png"
+    },
+    {
+      "route": "/bitelevate/paths",
+      "name": "bitelevate-paths",
+      "spanIndex": 0,
+      "text": "own future",
+      "switchedText": "own future",
+      "textStable": true,
+      "display": "inline",
+      "fontSize": 96,
+      "lineHeight": 91.2,
+      "leading": 0.95,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 274.1875,
+        "w": 466.375,
+        "h": 121
+      },
+      "clip": {
+        "x": 40,
+        "y": 264,
+        "width": 483,
+        "height": 174
+      },
+      "before": "evidence/after/descenders/bitelevate-paths-0-own-future--shipped.png",
+      "after": "evidence/after/descenders/bitelevate-paths-0-own-future--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 395.19,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 93114,
+      "solidInkBelowBox": 9613,
+      "lostPixels": 890,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/bitelevate-paths-0-own-future--lost.png"
+    },
+    {
+      "route": "/contact",
+      "name": "contact",
+      "spanIndex": 0,
+      "text": "Project",
+      "switchedText": "Project",
+      "textStable": true,
+      "display": "inline",
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 366.59375,
+        "w": 323.4375,
+        "h": 121
+      },
+      "clip": {
+        "x": 40,
+        "y": 356,
+        "width": 340,
+        "height": 174
+      },
+      "before": "evidence/after/descenders/contact-0-project--shipped.png",
+      "after": "evidence/after/descenders/contact-0-project--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 487.59,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 49240,
+      "solidInkBelowBox": 227,
+      "lostPixels": 50,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/contact-0-project--lost.png"
+    },
+    {
+      "route": "/blog",
+      "name": "blog",
+      "spanIndex": 0,
+      "text": "knowledge",
+      "switchedText": "knowledge",
+      "textStable": true,
+      "display": "inline",
+      "fontSize": 72,
+      "lineHeight": 72,
+      "leading": 1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 252,
+        "w": 366.5625,
+        "h": 91
+      },
+      "clip": {
+        "x": 42,
+        "y": 244,
+        "width": 379,
+        "height": 131
+      },
+      "before": "evidence/after/descenders/blog-0-knowledge--shipped.png",
+      "after": "evidence/after/descenders/blog-0-knowledge--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 343,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 52175,
+      "solidInkBelowBox": 0,
+      "lostPixels": 416,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/blog-0-knowledge--lost.png"
+    },
+    {
+      "route": "/careers",
+      "name": "careers",
+      "spanIndex": 0,
+      "text": "opportunities",
+      "switchedText": "opportunities",
+      "textStable": true,
+      "display": "inline",
+      "fontSize": 96,
+      "lineHeight": 96,
+      "leading": 1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 291.25,
+        "w": 584.640625,
+        "h": 121
+      },
+      "clip": {
+        "x": 40,
+        "y": 281,
+        "width": 601,
+        "height": 174
+      },
+      "before": "evidence/after/descenders/careers-0-opportunities--shipped.png",
+      "after": "evidence/after/descenders/careers-0-opportunities--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 412.25,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 130336,
+      "solidInkBelowBox": 26076,
+      "lostPixels": 729,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/careers-0-opportunities--lost.png"
+    },
+    {
+      "route": "/impact",
+      "name": "impact",
+      "spanIndex": 0,
+      "text": "Society",
+      "switchedText": "Society",
+      "textStable": true,
+      "display": "inline",
+      "fontSize": 96,
+      "lineHeight": 96,
+      "leading": 1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 48,
+        "y": 293.25,
+        "w": 331.5,
+        "h": 121
+      },
+      "clip": {
+        "x": 40,
+        "y": 283,
+        "width": 348,
+        "height": 174
+      },
+      "before": "evidence/after/descenders/impact-0-society--shipped.png",
+      "after": "evidence/after/descenders/impact-0-society--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 414.25,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 67328,
+      "solidInkBelowBox": 7098,
+      "lostPixels": 583,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/impact-0-society--lost.png"
+    },
+    {
+      "route": "/privacy",
+      "name": "privacy",
+      "spanIndex": 0,
+      "text": "Policy",
+      "switchedText": "Policy",
+      "textStable": true,
+      "display": "inline",
+      "fontSize": 60,
+      "lineHeight": 60,
+      "leading": 1,
+      "paddingBottom": 0,
+      "opacity": 1,
+      "rect": {
+        "x": 477.984375,
+        "y": 173,
+        "w": 162.78125,
+        "h": 75
+      },
+      "clip": {
+        "x": 472,
+        "y": 167,
+        "width": 173,
+        "height": 108
+      },
+      "before": "evidence/after/descenders/privacy-0-policy--shipped.png",
+      "after": "evidence/after/descenders/privacy-0-policy--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 248,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 15385,
+      "solidInkBelowBox": 44,
+      "lostPixels": 185,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders/privacy-0-policy--lost.png"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+✓ desktop /                  cls=0.0059 h1=96/105.6 grad=AI automation.:113.6px/8px,Software dev.:113.6px/8px clipped=3 hidden=51
+✓ desktop /services          cls=0.0044 h1=96/105.6 grad=Scale:105.6px/0px clipped=2 hidden=39
+✓ desktop /products          cls=0.0032 h1=96/105.6 grad=Cynbit Product:105.6px/0px clipped=0 hidden=35
+✓ desktop /case-studies      cls=0.0032 h1=96/105.6 grad=Scalable Solutions:211.2px/0px clipped=0 hidden=33
+✓ desktop /bitelevate        cls=0.0651 h1=54.4/58.752 grad=Start Doing the Work.:58.8px/0px clipped=2 hidden=34
+✓ desktop /bitelevate/paths  cls=0.0032 h1=96/91.2 grad=own future:121px/0px clipped=0 hidden=31
+✓ desktop /contact           cls=0.0054 h1=96/105.6 grad=Project:121px/0px clipped=0 hidden=27
+✓ desktop /blog              cls=0.0032 h1=72/72 grad=knowledge:91px/0px clipped=0 hidden=22
+✓ desktop /careers           cls=0.0032 h1=96/96 grad=opportunities:121px/0px clipped=0 hidden=48
+✓ desktop /impact            cls=0.0032 h1=96/96 grad=Society:121px/0px clipped=0 hidden=22
+✓ desktop /privacy           cls=0.0032 h1=60/60 grad=Policy:75px/0px clipped=0 hidden=21
+✓ tablet  /                  cls=0.0032 h1=60/66 grad=AI automation.:74px/8px,Software dev.:74px/8px clipped=2 hidden=51
+✓ tablet  /services          cls=0 h1=60/66 grad=Scale:66px/0px clipped=1 hidden=39
+✓ tablet  /products          cls=0.0126 h1=60/66 grad=Cynbit Product:66px/0px clipped=0 hidden=35
+✓ tablet  /case-studies      cls=0 h1=60/66 grad=Scalable Solutions:66px/0px clipped=0 hidden=32
+✓ tablet  /bitelevate        cls=0.042 h1=48/51.84 grad=Start Doing the Work.:51.8px/0px clipped=2 hidden=35
+✓ tablet  /bitelevate/paths  cls=0 h1=60/57 grad=own future:75px/0px clipped=0 hidden=30
+✓ tablet  /contact           cls=0.0039 h1=60/66 grad=Project:75px/0px clipped=0 hidden=27
+✓ tablet  /blog              cls=0 h1=60/60 grad=knowledge:75px/0px clipped=0 hidden=22
+✓ tablet  /careers           cls=0 h1=60/60 grad=opportunities:75px/0px clipped=0 hidden=46
+✓ tablet  /impact            cls=0 h1=60/60 grad=Society:75px/0px clipped=0 hidden=22
+✓ tablet  /privacy           cls=0 h1=60/60 grad=Policy:75px/0px clipped=0 hidden=20
+✓ mobile  /                  cls=0.018 h1=36/39.6 grad=AI automation.:47.6px/8px,Software dev.:47.6px/8px clipped=2 hidden=52
+✓ mobile  /services          cls=0.0416 h1=36/39.6 grad=Scale:39.6px/0px clipped=1 hidden=39
+✓ mobile  /products          cls=0.016 h1=36/39.6 grad=Cynbit Product:39.6px/0px clipped=0 hidden=36
+✓ mobile  /case-studies      cls=0.0087 h1=36/39.6 grad=Scalable Solutions:39.6px/0px clipped=0 hidden=33
+✓ mobile  /bitelevate        cls=0.117 h1=30/32.4 grad=Start Doing the Work.:32.4px/0px clipped=2 hidden=35
+✓ mobile  /bitelevate/paths  cls=0.0087 h1=36/34.2 grad=own future:45px/0px clipped=0 hidden=31
+✓ mobile  /contact           cls=0.0101 h1=36/39.6 grad=Project:45px/0px clipped=0 hidden=28
+✓ mobile  /blog              cls=0.0087 h1=36/36 grad=knowledge:45px/0px clipped=0 hidden=22
+✓ mobile  /careers           cls=0.0087 h1=36/36 grad=opportunities:45px/0px clipped=0 hidden=48
+✓ mobile  /impact            cls=0.0481 h1=36/36 grad=Society:45px/0px clipped=0 hidden=23
+✓ mobile  /privacy           cls=0.0087 h1=36/40 grad=Policy:45px/0px clipped=0 hidden=21
+
+Saved evidence/before/audit-raw.json

@@ -1,0 +1,310 @@
+[
+  {
+    "route": "/",
+    "name": "home",
+    "spanIndex": 0,
+    "text": "AI automation.",
+    "switchedText": "AI automation.",
+    "textStable": true,
+    "display": "block",
+    "fontSize": 36,
+    "lineHeight": 39.6,
+    "leading": 1.1,
+    "paddingBottom": 8,
+    "opacity": 1,
+    "rect": {
+      "x": 16,
+      "y": 290.1875,
+      "w": 358,
+      "h": 47.59375
+    },
+    "clip": {
+      "x": 13,
+      "y": 286,
+      "width": 364,
+      "height": 68
+    },
+    "before": "evidence/after/descenders-mobile/home-0-ai-automation--shipped.png",
+    "after": "evidence/after/descenders-mobile/home-0-ai-automation--solid.png"
+  },
+  {
+    "route": "/services",
+    "name": "services",
+    "spanIndex": 0,
+    "text": "Scale",
+    "switchedText": "Scale",
+    "textStable": true,
+    "display": "inline-block",
+    "fontSize": 36,
+    "lineHeight": 39.6,
+    "leading": 1.1,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 142.984375,
+      "y": 198,
+      "w": 104.640625,
+      "h": 39.59375
+    },
+    "clip": {
+      "x": 139,
+      "y": 194,
+      "width": 111,
+      "height": 60
+    },
+    "before": "evidence/after/descenders-mobile/services-0-scale--shipped.png",
+    "after": "evidence/after/descenders-mobile/services-0-scale--solid.png"
+  },
+  {
+    "route": "/products",
+    "name": "products",
+    "spanIndex": 0,
+    "text": "Cynbit Product",
+    "switchedText": "Cynbit Product",
+    "textStable": true,
+    "display": "inline-block",
+    "fontSize": 36,
+    "lineHeight": 39.6,
+    "leading": 1.1,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 78.71875,
+      "y": 170,
+      "w": 260.703125,
+      "h": 39.59375
+    },
+    "clip": {
+      "x": 75,
+      "y": 166,
+      "width": 267,
+      "height": 60
+    },
+    "before": "evidence/after/descenders-mobile/products-0-cynbit-product--shipped.png",
+    "after": "evidence/after/descenders-mobile/products-0-cynbit-product--solid.png"
+  },
+  {
+    "route": "/case-studies",
+    "name": "case-studies",
+    "spanIndex": 0,
+    "text": "Scalable Solutions",
+    "switchedText": "Scalable Solutions",
+    "textStable": true,
+    "display": "inline-block",
+    "fontSize": 36,
+    "lineHeight": 39.6,
+    "leading": 1.1,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 16,
+      "y": 209.59375,
+      "w": 308,
+      "h": 39.59375
+    },
+    "clip": {
+      "x": 13,
+      "y": 205,
+      "width": 314,
+      "height": 60
+    },
+    "before": "evidence/after/descenders-mobile/case-studies-0-scalable-solutions--shipped.png",
+    "after": "evidence/after/descenders-mobile/case-studies-0-scalable-solutions--solid.png"
+  },
+  {
+    "route": "/bitelevate",
+    "name": "bitelevate",
+    "spanIndex": 0,
+    "text": "Start Doing the Work.",
+    "switchedText": "Start Doing the Work.",
+    "textStable": true,
+    "display": "inline-block",
+    "fontSize": 30,
+    "lineHeight": 32.4,
+    "leading": 1.08,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 16,
+      "y": 299.75,
+      "w": 309.625,
+      "h": 32.390625
+    },
+    "clip": {
+      "x": 13,
+      "y": 296,
+      "width": 316,
+      "height": 49
+    },
+    "before": "evidence/after/descenders-mobile/bitelevate-0-start-doing-the-work--shipped.png",
+    "after": "evidence/after/descenders-mobile/bitelevate-0-start-doing-the-work--solid.png"
+  },
+  {
+    "route": "/bitelevate/paths",
+    "name": "bitelevate-paths",
+    "spanIndex": 0,
+    "text": "own future",
+    "switchedText": "own future",
+    "textStable": true,
+    "display": "inline",
+    "fontSize": 36,
+    "lineHeight": 34.2,
+    "leading": 0.95,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 16,
+      "y": 226.1875,
+      "w": 174.890625,
+      "h": 45
+    },
+    "clip": {
+      "x": 13,
+      "y": 222,
+      "width": 181,
+      "height": 65
+    },
+    "before": "evidence/after/descenders-mobile/bitelevate-paths-0-own-future--shipped.png",
+    "after": "evidence/after/descenders-mobile/bitelevate-paths-0-own-future--solid.png"
+  },
+  {
+    "route": "/contact",
+    "name": "contact",
+    "spanIndex": 0,
+    "text": "Project",
+    "switchedText": "Project",
+    "textStable": true,
+    "display": "inline",
+    "fontSize": 36,
+    "lineHeight": 39.6,
+    "leading": 1.1,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 16,
+      "y": 241.59375,
+      "w": 121.296875,
+      "h": 45
+    },
+    "clip": {
+      "x": 13,
+      "y": 237,
+      "width": 128,
+      "height": 65
+    },
+    "before": "evidence/after/descenders-mobile/contact-0-project--shipped.png",
+    "after": "evidence/after/descenders-mobile/contact-0-project--solid.png"
+  },
+  {
+    "route": "/blog",
+    "name": "blog",
+    "spanIndex": 0,
+    "text": "knowledge",
+    "switchedText": "knowledge",
+    "textStable": true,
+    "display": "inline",
+    "fontSize": 36,
+    "lineHeight": 36,
+    "leading": 1,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 16,
+      "y": 221,
+      "w": 183.28125,
+      "h": 45
+    },
+    "clip": {
+      "x": 13,
+      "y": 217,
+      "width": 190,
+      "height": 65
+    },
+    "before": "evidence/after/descenders-mobile/blog-0-knowledge--shipped.png",
+    "after": "evidence/after/descenders-mobile/blog-0-knowledge--solid.png"
+  },
+  {
+    "route": "/careers",
+    "name": "careers",
+    "spanIndex": 0,
+    "text": "opportunities",
+    "switchedText": "opportunities",
+    "textStable": true,
+    "display": "inline",
+    "fontSize": 36,
+    "lineHeight": 36,
+    "leading": 1,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 16,
+      "y": 201,
+      "w": 219.25,
+      "h": 45
+    },
+    "clip": {
+      "x": 13,
+      "y": 197,
+      "width": 226,
+      "height": 65
+    },
+    "before": "evidence/after/descenders-mobile/careers-0-opportunities--shipped.png",
+    "after": "evidence/after/descenders-mobile/careers-0-opportunities--solid.png"
+  },
+  {
+    "route": "/impact",
+    "name": "impact",
+    "spanIndex": 0,
+    "text": "Society",
+    "switchedText": "Society",
+    "textStable": true,
+    "display": "inline",
+    "fontSize": 36,
+    "lineHeight": 36,
+    "leading": 1,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 180.671875,
+      "y": 197,
+      "w": 124.3125,
+      "h": 45
+    },
+    "clip": {
+      "x": 177,
+      "y": 193,
+      "width": 131,
+      "height": 65
+    },
+    "before": "evidence/after/descenders-mobile/impact-0-society--shipped.png",
+    "after": "evidence/after/descenders-mobile/impact-0-society--solid.png"
+  },
+  {
+    "route": "/privacy",
+    "name": "privacy",
+    "spanIndex": 0,
+    "text": "Policy",
+    "switchedText": "Policy",
+    "textStable": true,
+    "display": "inline",
+    "fontSize": 36,
+    "lineHeight": 40,
+    "leading": 1.111,
+    "paddingBottom": 0,
+    "opacity": 1,
+    "rect": {
+      "x": 139.59375,
+      "y": 178,
+      "w": 97.671875,
+      "h": 45
+    },
+    "clip": {
+      "x": 136,
+      "y": 174,
+      "width": 104,
+      "height": 65
+    },
+    "before": "evidence/after/descenders-mobile/privacy-0-policy--shipped.png",
+    "after": "evidence/after/descenders-mobile/privacy-0-policy--solid.png"
+  }
+]

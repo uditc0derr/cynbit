@@ -1,0 +1,22 @@
+{
+  "name": "cynbit-audit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reproducible audit and evidence scripts for the Cynbit PageHero prototype.",
+  "scripts": {
+    "capture:live": "node capture-live.mjs",
+    "overflow:live": "node overflow-live.mjs",
+    "capture:prototype": "BASE=http://127.0.0.1:4174 node capture-prototype.mjs",
+    "capture:cls": "BASE=http://127.0.0.1:4174 node cls-debug.mjs",
+    "descenders:live": "BASE=https://www.cynbit.in ROUTES=live OUT=descenders node gradient-descender.mjs",
+    "descenders:prototype": "BASE=http://127.0.0.1:4174 ROUTES=prototype OUT=descenders-proto node gradient-descender.mjs",
+    "descenders:analyse": "python3 analyse-descenders.py descenders && python3 analyse-descenders.py descenders-proto",
+    "perf": "node animation-profile.mjs && node pause-behavior.mjs",
+    "composites": "python3 make-composites.py",
+    "verify:deploy": "node verify-deploy.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.49.1"
+  }
+}

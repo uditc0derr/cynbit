@@ -1,0 +1,510 @@
+[
+  {
+    "page": "home",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "errors": [],
+    "h1": {
+      "text": "Architecting the future withAI automation.Architecting the future with AI automation.",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": "5.6448px",
+      "overflow": "visible",
+      "rect": {
+        "x": 43.2,
+        "y": 257.2,
+        "w": 747.6,
+        "h": 346.2
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "AI automation.",
+        "h": 119.5,
+        "lineHeight": "108.192px",
+        "paddingBottom": "11.2896px",
+        "display": "block"
+      }
+    ],
+    "orbit": {
+      "w": 486,
+      "h": 486,
+      "insideHero": true,
+      "paused": "false",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "animationCount": 14,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "privacy",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "errors": [],
+    "h1": {
+      "text": "Privacy Policy",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": "5.6448px",
+      "overflow": "visible",
+      "rect": {
+        "x": 427.6,
+        "y": 257.2,
+        "w": 584.8,
+        "h": 125.1
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Policy",
+        "h": 119.5,
+        "lineHeight": "108.192px",
+        "paddingBottom": "11.2896px",
+        "display": "inline-block"
+      }
+    ],
+    "overflowers": [],
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "animationCount": 0,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "impact",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "errors": [],
+    "h1": {
+      "text": "Cynbit for Society",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": "5.6448px",
+      "overflow": "visible",
+      "rect": {
+        "x": 43.2,
+        "y": 257.2,
+        "w": 747.6,
+        "h": 233.3
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Society",
+        "h": 119.5,
+        "lineHeight": "108.192px",
+        "paddingBottom": "11.2896px",
+        "display": "inline-block"
+      }
+    ],
+    "orbit": {
+      "w": 486,
+      "h": 486,
+      "insideHero": true,
+      "paused": "false",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "animationCount": 13,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "system",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "errors": [],
+    "h1": {
+      "text": "One hero. Every page.",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": "5.6448px",
+      "overflow": "visible",
+      "rect": {
+        "x": 256,
+        "y": 257.2,
+        "w": 928,
+        "h": 233.3
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Every page.",
+        "h": 119.5,
+        "lineHeight": "108.192px",
+        "paddingBottom": "11.2896px",
+        "display": "inline-block"
+      }
+    ],
+    "orbit": {
+      "w": 320,
+      "h": 320,
+      "insideHero": true,
+      "paused": "true",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "animationCount": 33,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "home",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "h1": {
+      "text": "Architecting the future withAI automation.Architecting the future with AI automation.",
+      "fontSize": 59.136,
+      "lineHeight": 68.0064,
+      "leading": 1.15,
+      "paddingBottom": "3.54816px",
+      "overflow": "visible",
+      "rect": {
+        "x": 23,
+        "y": 231.6,
+        "w": 721.9,
+        "h": 217.6
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "AI automation.",
+        "h": 75.1,
+        "lineHeight": "68.0064px",
+        "paddingBottom": "7.09632px",
+        "display": "block"
+      }
+    ],
+    "orbit": {
+      "w": 560,
+      "h": 560,
+      "insideHero": true,
+      "paused": "false",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 768,
+    "innerWidth": 768,
+    "animationCount": 14,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "privacy",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "h1": {
+      "text": "Privacy Policy",
+      "fontSize": 59.136,
+      "lineHeight": 68.0064,
+      "leading": 1.15,
+      "paddingBottom": "3.54816px",
+      "overflow": "visible",
+      "rect": {
+        "x": 200.2,
+        "y": 231.6,
+        "w": 367.6,
+        "h": 78.6
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Policy",
+        "h": 75.1,
+        "lineHeight": "68.0064px",
+        "paddingBottom": "7.09632px",
+        "display": "inline-block"
+      }
+    ],
+    "overflowers": [],
+    "scrollWidth": 768,
+    "innerWidth": 768,
+    "animationCount": 0,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "impact",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "h1": {
+      "text": "Cynbit for Society",
+      "fontSize": 59.136,
+      "lineHeight": 68.0064,
+      "leading": 1.15,
+      "paddingBottom": "3.54816px",
+      "overflow": "visible",
+      "rect": {
+        "x": 23,
+        "y": 231.6,
+        "w": 480,
+        "h": 78.6
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Society",
+        "h": 75.1,
+        "lineHeight": "68.0064px",
+        "paddingBottom": "7.09632px",
+        "display": "inline-block"
+      }
+    ],
+    "orbit": {
+      "w": 540,
+      "h": 540,
+      "insideHero": true,
+      "paused": "false",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 768,
+    "innerWidth": 768,
+    "animationCount": 13,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "system",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "h1": {
+      "text": "One hero. Every page.",
+      "fontSize": 59.136,
+      "lineHeight": 68.0064,
+      "leading": 1.15,
+      "paddingBottom": "3.54816px",
+      "overflow": "visible",
+      "rect": {
+        "x": 87.7,
+        "y": 231.6,
+        "w": 592.6,
+        "h": 78.6
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Every page.",
+        "h": 75.1,
+        "lineHeight": "68.0064px",
+        "paddingBottom": "7.09632px",
+        "display": "inline-block"
+      }
+    ],
+    "orbit": {
+      "w": 320,
+      "h": 320,
+      "insideHero": true,
+      "paused": "true",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 768,
+    "innerWidth": 768,
+    "animationCount": 33,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "home",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "h1": {
+      "text": "Architecting the future withAI automation.Architecting the future with AI automation.",
+      "fontSize": 41.6,
+      "lineHeight": 47.84,
+      "leading": 1.15,
+      "paddingBottom": "2.496px",
+      "overflow": "visible",
+      "rect": {
+        "x": 16,
+        "y": 231.6,
+        "w": 358,
+        "h": 153
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "AI automation.",
+        "h": 52.8,
+        "lineHeight": "47.84px",
+        "paddingBottom": "4.992px",
+        "display": "block"
+      }
+    ],
+    "orbit": {
+      "w": 342,
+      "h": 342,
+      "insideHero": true,
+      "paused": "false",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "animationCount": 14,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "privacy",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "h1": {
+      "text": "Privacy Policy",
+      "fontSize": 41.6,
+      "lineHeight": 47.84,
+      "leading": 1.15,
+      "paddingBottom": "2.496px",
+      "overflow": "visible",
+      "rect": {
+        "x": 65.7,
+        "y": 231.6,
+        "w": 258.6,
+        "h": 55.3
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Policy",
+        "h": 52.8,
+        "lineHeight": "47.84px",
+        "paddingBottom": "4.992px",
+        "display": "inline-block"
+      }
+    ],
+    "overflowers": [],
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "animationCount": 0,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "impact",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "h1": {
+      "text": "Cynbit for Society",
+      "fontSize": 41.6,
+      "lineHeight": 47.84,
+      "leading": 1.15,
+      "paddingBottom": "2.496px",
+      "overflow": "visible",
+      "rect": {
+        "x": 16,
+        "y": 231.6,
+        "w": 337.7,
+        "h": 55.3
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Society",
+        "h": 52.8,
+        "lineHeight": "47.84px",
+        "paddingBottom": "4.992px",
+        "display": "inline-block"
+      }
+    ],
+    "orbit": {
+      "w": 342,
+      "h": 342,
+      "insideHero": true,
+      "paused": "false",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "animationCount": 13,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "page": "system",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "h1": {
+      "text": "One hero. Every page.",
+      "fontSize": 41.6,
+      "lineHeight": 47.84,
+      "leading": 1.15,
+      "paddingBottom": "2.496px",
+      "overflow": "visible",
+      "rect": {
+        "x": 16,
+        "y": 231.6,
+        "w": 358,
+        "h": 103.1
+      }
+    },
+    "gradientSpans": [
+      {
+        "text": "Every page.",
+        "h": 52.8,
+        "lineHeight": "47.84px",
+        "paddingBottom": "4.992px",
+        "display": "inline-block"
+      }
+    ],
+    "orbit": {
+      "w": 320,
+      "h": 320,
+      "insideHero": true,
+      "paused": "true",
+      "static": "false"
+    },
+    "overflowers": [],
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "animationCount": 33,
+    "cls": 0,
+    "imgCount": 0
+  },
+  {
+    "checks": {
+      "reducedMotion": {
+        "static": "true",
+        "animatedDescendants": 0,
+        "rotatorWords": 1
+      },
+      "offscreenPause": {
+        "before": "false",
+        "after": "true"
+      }
+    }
+  }
+]

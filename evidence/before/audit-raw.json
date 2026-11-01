@@ -1,0 +1,5523 @@
+[
+  {
+    "page": "home",
+    "route": "/",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Cynbit Technologies | AI Automation & Software Solutions Jaipur | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architecting the future withAI automation.Software dev.",
+      "rect": {
+        "x": 48,
+        "y": 205,
+        "w": 744,
+        "h": 352
+      },
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left"
+    },
+    "gradientSpans": [
+      {
+        "text": "AI automation.",
+        "cls": "absolute left-0 top-0 block w-full text-gradient-primary italic leading-[1.1] whitespace-nowrap pr-6",
+        "box": {
+          "x": 48,
+          "y": 307.3,
+          "w": 744,
+          "h": 113.6
+        },
+        "display": "block",
+        "fontSize": 96,
+        "lineHeight": 105.6,
+        "paddingBottom": "8px"
+      },
+      {
+        "text": "Software dev.",
+        "cls": "absolute left-0 top-0 block w-full text-gradient-primary italic leading-[1.1] whitespace-nowrap pr-6",
+        "box": {
+          "x": 48,
+          "y": 432.3,
+          "w": 744,
+          "h": 113.6
+        },
+        "display": "block",
+        "fontSize": 96,
+        "lineHeight": 105.6,
+        "paddingBottom": "8px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left",
+        "rectH": 352,
+        "overflow": "visible",
+        "height": "351.984px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 352,
+        "overflow": "visible",
+        "height": "351.984px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 352,
+        "overflow": "visible",
+        "height": "351.984px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-10 text-on-surface text-left",
+        "rectH": 725,
+        "overflow": "visible",
+        "height": "724.984px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center relative z-10 text-left",
+        "rectH": 725,
+        "overflow": "visible",
+        "height": "724.984px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-32 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+        "rectH": 981,
+        "overflow": "hidden",
+        "height": "980.984px",
+        "maxHeight": "none",
+        "paddingBottom": "128px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "overflow-hidden bg-surface text-left",
+        "rectH": 8082,
+        "overflow": "hidden",
+        "height": "8081.98px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 8082,
+        "overflow": "visible",
+        "height": "8081.98px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "900 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[400px] -mt-",
+        "overLeft": -840,
+        "overRight": 400,
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "tag": "div",
+        "cls": "absolute bottom-0 left-0 w-[800px] h-[800px] bg-secondary/5 rounded-full blur-[120px] -ml-[300px] -m",
+        "overLeft": 300,
+        "overRight": -940,
+        "w": 800,
+        "h": 800
+      },
+      {
+        "tag": "div",
+        "cls": "absolute w-[120%] h-[120%] border border-primary/5 rounded-full pointer-events-none",
+        "overLeft": -784.8,
+        "overRight": 7.2,
+        "w": 662,
+        "h": 461
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[4",
+        "w": 1000,
+        "h": 1000,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-2 h-2 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "w-[500px] h-[500px] bg-primary/20 rounded-full blur-[120px] animate-pulse",
+        "w": 500,
+        "h": 500,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(120px)",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 863,
+    "hiddenRevealCount": 51,
+    "cls": 0.0059,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "services",
+    "route": "/services",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "AI Automation & Software Development Services | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Built for ScaleDesigned for Performance",
+      "rect": {
+        "x": 48,
+        "y": 206.1,
+        "w": 744,
+        "h": 316.8
+      },
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-on-surface text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Scale",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 386.6,
+          "y": 206.1,
+          "w": 252.4,
+          "h": 105.6
+        },
+        "display": "inline-block",
+        "fontSize": 96,
+        "lineHeight": 105.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-on-surface text-balance",
+        "rectH": 316.8,
+        "overflow": "visible",
+        "height": "316.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 316.8,
+        "overflow": "visible",
+        "height": "316.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 316.8,
+        "overflow": "visible",
+        "height": "316.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8",
+        "rectH": 583.8,
+        "overflow": "visible",
+        "height": "583.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center relative z-10",
+        "rectH": 600,
+        "overflow": "visible",
+        "height": "600px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-24 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+        "rectH": 824,
+        "overflow": "hidden",
+        "height": "824px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left font-body",
+        "rectH": 4695.3,
+        "overflow": "hidden",
+        "height": "4695.25px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 4695.3,
+        "overflow": "visible",
+        "height": "4695.25px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[400px] -mt-",
+        "overLeft": -840,
+        "overRight": 400,
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "tag": "div",
+        "cls": "absolute w-[110%] h-[110%] border border-dashed border-primary/10 rounded-full pointer-events-none",
+        "overLeft": -807.1,
+        "overRight": 32.9,
+        "w": 666,
+        "h": 697
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[4",
+        "w": 1000,
+        "h": 1000,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-tertiary animate-ping",
+        "w": 12,
+        "h": 12,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 592,
+    "hiddenRevealCount": 39,
+    "cls": 0.0044,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "products",
+    "route": "/products",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Proprietary Software Suite | Cynbit Studio, TenantEase & Revio | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "The Cynbit Product Ecosystem",
+      "rect": {
+        "x": 48,
+        "y": 202,
+        "w": 744,
+        "h": 316.8
+      },
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Cynbit Product",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 48,
+          "y": 307.6,
+          "w": 668.5,
+          "h": 105.6
+        },
+        "display": "inline-block",
+        "fontSize": 96,
+        "lineHeight": 105.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance",
+        "rectH": 316.8,
+        "overflow": "visible",
+        "height": "316.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 316.8,
+        "overflow": "visible",
+        "height": "316.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 316.8,
+        "overflow": "visible",
+        "height": "316.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 612.3,
+        "overflow": "visible",
+        "height": "612.281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center text-left",
+        "rectH": 612.3,
+        "overflow": "visible",
+        "height": "612.281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 836.3,
+        "overflow": "visible",
+        "height": "836.281px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 7535.8,
+        "overflow": "hidden",
+        "height": "7535.78px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 7535.8,
+        "overflow": "visible",
+        "height": "7535.78px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 739,
+    "hiddenRevealCount": 35,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "case-studies",
+    "route": "/case-studies",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Cynbit Technologies | AI Automation & Software Solutions Jaipur",
+    "h1": {
+      "tag": "h1",
+      "text": "From Challenge toScalable Solutions",
+      "rect": {
+        "x": 48,
+        "y": 202,
+        "w": 744,
+        "h": 422.4
+      },
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Scalable Solutions",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 48,
+          "y": 413.2,
+          "w": 744,
+          "h": 211.2
+        },
+        "display": "inline-block",
+        "fontSize": 96,
+        "lineHeight": 105.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance",
+        "rectH": 422.4,
+        "overflow": "visible",
+        "height": "422.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 422.4,
+        "overflow": "visible",
+        "height": "422.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 422.4,
+        "overflow": "visible",
+        "height": "422.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 672.4,
+        "overflow": "visible",
+        "height": "672.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 672.4,
+        "overflow": "visible",
+        "height": "672.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 896.4,
+        "overflow": "visible",
+        "height": "896.375px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 5690.9,
+        "overflow": "hidden",
+        "height": "5690.88px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 5690.9,
+        "overflow": "visible",
+        "height": "5690.88px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 p-4 bg-white rounded-2xl shadow-xl border border-outline-variant/10",
+        "w": 109,
+        "h": 76,
+        "name": "float",
+        "duration": "6s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 705,
+    "hiddenRevealCount": 33,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "bitelevate",
+    "route": "/bitelevate",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "BitElevate: Remote Internships & Real-World Projects | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Stop Watching Tutorials. Start Doing the Work.",
+      "rect": {
+        "x": 48,
+        "y": 335.4,
+        "w": 757.3,
+        "h": 117.5
+      },
+      "fontSize": 54.4,
+      "lineHeight": 58.752,
+      "leading": 1.08,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-3xl sm:text-4xl md:text-5xl lg:text-[2.85rem] xl:text-[3.4rem] font-headline font-black tracking-tight leading-[1.08] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Start Doing the Work.",
+        "cls": "text-gradient-primary italic inline-block pr-2",
+        "box": {
+          "x": 48,
+          "y": 394.1,
+          "w": 555,
+          "h": 58.8
+        },
+        "display": "inline-block",
+        "fontSize": 54.4,
+        "lineHeight": 58.752,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-3xl sm:text-4xl md:text-5xl lg:text-[2.85rem] xl:text-[3.4rem] font-headline font-black tracking-tight leading-[1.08] text-balance",
+        "rectH": 117.5,
+        "overflow": "visible",
+        "height": "117.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "space-y-2 pt-0.5",
+        "rectH": 147.5,
+        "overflow": "visible",
+        "height": "147.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 147.5,
+        "overflow": "visible",
+        "height": "147.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 147.5,
+        "overflow": "visible",
+        "height": "147.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-3.5 sm:space-y-4 lg:space-y-4.5 text-on-surface",
+        "rectH": 453.8,
+        "overflow": "visible",
+        "height": "453.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl w-full mx-auto grid lg:grid-cols-12 gap-8 lg:gap-12 xl:gap-16 items-center relative z-10",
+        "rectH": 453.8,
+        "overflow": "visible",
+        "height": "453.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative min-h-screen lg:h-screen flex items-center justify-center pt-20 lg:pt-24 pb-4 lg:pb-6 px-4 md:px-8 lg:px-12 bg-surface overflow-hid",
+        "rectH": 900,
+        "overflow": "hidden",
+        "height": "900px",
+        "maxHeight": "none",
+        "paddingBottom": "24px",
+        "display": "flex"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 7712.7,
+        "overflow": "hidden",
+        "height": "7712.66px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "900 54.4px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 12.1,
+      "fontSize": 54.4
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[700px] h-[700px] lg:w-[900px] lg:h-[900px] bg-primary/5 rounded-full blur-",
+        "overLeft": -820,
+        "overRight": 280,
+        "w": 900,
+        "h": 900
+      },
+      {
+        "tag": "div",
+        "cls": "absolute bottom-0 left-0 w-[550px] h-[550px] lg:w-[700px] lg:h-[700px] bg-secondary/5 rounded-full b",
+        "overLeft": 220,
+        "overRight": -960,
+        "w": 700,
+        "h": 700
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[700px] h-[700px] lg:w-[900px] lg:h-[900px] bg-primary/5 rounded-",
+        "w": 900,
+        "h": 900,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 6,
+        "h": 6,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "span",
+        "cls": "animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75",
+        "w": 16,
+        "h": 16,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "span",
+        "cls": "animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75",
+        "w": 16,
+        "h": 16,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "span",
+        "cls": "w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse",
+        "w": 6,
+        "h": 6,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 1484,
+    "hiddenRevealCount": 34,
+    "cls": 0.0651,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "bitelevate-paths",
+    "route": "/bitelevate/paths",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Design Your Own Career | Personalized Engineering Paths | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architect your own future.",
+      "rect": {
+        "x": 48,
+        "y": 198,
+        "w": 885.3,
+        "h": 182.4
+      },
+      "fontSize": 96,
+      "lineHeight": 91.2,
+      "leading": 0.95,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "font-headline text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold text-on-surface leading-[0.95] tracking-tighter"
+    },
+    "gradientSpans": [
+      {
+        "text": "own future",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 48,
+          "y": 274.2,
+          "w": 466.4,
+          "h": 121
+        },
+        "display": "inline",
+        "fontSize": 96,
+        "lineHeight": 91.2,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "font-headline text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold text-on-surface leading-[0.95] tracking-tighter",
+        "rectH": 182.4,
+        "overflow": "visible",
+        "height": "182.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "col-span-12 lg:col-span-8 space-y-8",
+        "rectH": 401.4,
+        "overflow": "visible",
+        "height": "401.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "relative mb-20 md:mb-24 lg:mb-32 grid lg:grid-cols-12 gap-8 items-end",
+        "rectH": 401.4,
+        "overflow": "visible",
+        "height": "401.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 401.4,
+        "overflow": "visible",
+        "height": "401.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 401.4,
+        "overflow": "visible",
+        "height": "401.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 pt-32 pb-24 overflow-hidden bg-surface text-left",
+        "rectH": 3116.1,
+        "overflow": "hidden",
+        "height": "3116.12px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 3116.1,
+        "overflow": "visible",
+        "height": "3116.12px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "flex-grow",
+        "rectH": 3116.1,
+        "overflow": "visible",
+        "height": "3116.12px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "h-full bg-primary w-1/3 animate-pulse",
+        "w": 115,
+        "h": 4,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute inset-0 bg-white/20 rounded-full blur-xl animate-pulse",
+        "w": 153,
+        "h": 56,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(24px)",
+        "position": "absolute"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 527,
+    "hiddenRevealCount": 31,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "contact",
+    "route": "/contact",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Contact Us | Cynbit Technologies - AI & Software Solutions | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Start Your Next Project With Us",
+      "rect": {
+        "x": 48,
+        "y": 269,
+        "w": 744,
+        "h": 211.2
+      },
+      "fontSize": 96,
+      "lineHeight": 105.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left italic"
+    },
+    "gradientSpans": [
+      {
+        "text": "Project",
+        "cls": "text-gradient-primary",
+        "box": {
+          "x": 48,
+          "y": 366.6,
+          "w": 323.4,
+          "h": 121
+        },
+        "display": "inline",
+        "fontSize": 96,
+        "lineHeight": 105.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left ",
+        "rectH": 211.2,
+        "overflow": "visible",
+        "height": "211.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 211.2,
+        "overflow": "visible",
+        "height": "211.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 211.2,
+        "overflow": "visible",
+        "height": "211.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-10",
+        "rectH": 551.7,
+        "overflow": "visible",
+        "height": "551.688px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "grid lg:grid-cols-12 gap-16 lg:gap-24 items-center",
+        "rectH": 551.7,
+        "overflow": "visible",
+        "height": "551.688px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto relative z-10",
+        "rectH": 551.7,
+        "overflow": "visible",
+        "height": "551.688px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 md:pt-48 pb-24 px-4 md:px-8 lg:px-12 bg-surface",
+        "rectH": 839.7,
+        "overflow": "visible",
+        "height": "839.688px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 3822.2,
+        "overflow": "hidden",
+        "height": "3822.19px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "italic 900 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "w-2 h-2 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute w-[120%] h-[120%] border border-primary/5 rounded-full pointer-events-none animat",
+        "w": 605,
+        "h": 29,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute left-0 right-0 h-1 bg-primary/10 blur-md z-30 animate-[scan_6s_linear_infinite]",
+        "w": 504,
+        "h": 4,
+        "name": "scan",
+        "duration": "6s",
+        "willChange": "auto",
+        "filter": "blur(12px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-tertiary animate-ping",
+        "w": 12,
+        "h": 12,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "span",
+        "cls": "w-2 h-2 rounded-full bg-primary animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 513,
+    "hiddenRevealCount": 27,
+    "cls": 0.0054,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "blog",
+    "route": "/blog",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Insights & Ideas | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architecting knowledge.",
+      "rect": {
+        "x": 48,
+        "y": 190,
+        "w": 768,
+        "h": 144
+      },
+      "fontSize": 72,
+      "lineHeight": 72,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tighter text-on-surface leading-[1.0] font-headline"
+    },
+    "gradientSpans": [
+      {
+        "text": "knowledge",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 48,
+          "y": 252,
+          "w": 366.6,
+          "h": 91
+        },
+        "display": "inline",
+        "fontSize": 72,
+        "lineHeight": 72,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tighter text-on-surface leading-[1.0] font-headline",
+        "rectH": 144,
+        "overflow": "visible",
+        "height": "144px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-3xl",
+        "rectH": 206,
+        "overflow": "visible",
+        "height": "206px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "flex flex-col md:flex-row md:items-end justify-between gap-8 mb-12",
+        "rectH": 206,
+        "overflow": "visible",
+        "height": "206px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "flex"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 206,
+        "overflow": "visible",
+        "height": "206px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 206,
+        "overflow": "visible",
+        "height": "206px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "mb-20",
+        "rectH": 302,
+        "overflow": "visible",
+        "height": "302px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 pt-32 pb-24 overflow-hidden text-left bg-surface",
+        "rectH": 3492.6,
+        "overflow": "hidden",
+        "height": "3492.56px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 3492.6,
+        "overflow": "visible",
+        "height": "3492.56px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 72px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 16,
+      "fontSize": 72
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "span",
+        "cls": "material-symbols-outlined text-base font-bold animate-pulse ml-2",
+        "w": 24,
+        "h": 24,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 495,
+    "hiddenRevealCount": 22,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "careers",
+    "route": "/careers",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Careers | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Explore theopportunities at Cynbit",
+      "rect": {
+        "x": 48,
+        "y": 208.3,
+        "w": 744,
+        "h": 288
+      },
+      "fontSize": 96,
+      "lineHeight": 96,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0]"
+    },
+    "gradientSpans": [
+      {
+        "text": "opportunities",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 48,
+          "y": 291.3,
+          "w": 584.6,
+          "h": 121
+        },
+        "display": "inline",
+        "fontSize": 96,
+        "lineHeight": 96,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0]",
+        "rectH": 288,
+        "overflow": "visible",
+        "height": "288px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 288,
+        "overflow": "visible",
+        "height": "288px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 288,
+        "overflow": "visible",
+        "height": "288px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 491.5,
+        "overflow": "visible",
+        "height": "491.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 504,
+        "overflow": "visible",
+        "height": "504px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 728,
+        "overflow": "visible",
+        "height": "728px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "overflow-hidden bg-surface text-left",
+        "rectH": 6146.5,
+        "overflow": "hidden",
+        "height": "6146.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 6146.5,
+        "overflow": "visible",
+        "height": "6146.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 689,
+    "hiddenRevealCount": 48,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "impact",
+    "route": "/impact",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Social Impact | BitElevate & Manav Seva Trust Partnership | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Cynbit for Society",
+      "rect": {
+        "x": 48,
+        "y": 210.3,
+        "w": 744,
+        "h": 192
+      },
+      "fontSize": 96,
+      "lineHeight": 96,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Society",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 48,
+          "y": 293.3,
+          "w": 331.5,
+          "h": 121
+        },
+        "display": "inline",
+        "fontSize": 96,
+        "lineHeight": 96,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0] text-balance",
+        "rectH": 192,
+        "overflow": "visible",
+        "height": "192px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 192,
+        "overflow": "visible",
+        "height": "192px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 192,
+        "overflow": "visible",
+        "height": "192px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 487.5,
+        "overflow": "visible",
+        "height": "487.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 504,
+        "overflow": "visible",
+        "height": "504px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 728,
+        "overflow": "visible",
+        "height": "728px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 3197.5,
+        "overflow": "hidden",
+        "height": "3197.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 3197.5,
+        "overflow": "visible",
+        "height": "3197.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 96px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 21.3,
+      "fontSize": 96
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 456,
+    "hiddenRevealCount": 22,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "privacy",
+    "route": "/privacy",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "consoleErrors": [],
+    "title": "Privacy Policy | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Privacy Policy",
+      "rect": {
+        "x": 272,
+        "y": 181,
+        "w": 896,
+        "h": 60
+      },
+      "fontSize": 60,
+      "lineHeight": 60,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl font-headline font-extrabold tracking-tighter text-on-surface mb-6"
+    },
+    "gradientSpans": [
+      {
+        "text": "Policy",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 478,
+          "y": 173,
+          "w": 162.8,
+          "h": 75
+        },
+        "display": "inline",
+        "fontSize": 60,
+        "lineHeight": 60,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl font-headline font-extrabold tracking-tighter text-on-surface mb-6",
+        "rectH": 60,
+        "overflow": "visible",
+        "height": "60px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "mb-16",
+        "rectH": 161,
+        "overflow": "visible",
+        "height": "161px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 161,
+        "overflow": "visible",
+        "height": "161px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 161,
+        "overflow": "visible",
+        "height": "161px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-4xl mx-auto",
+        "rectH": 1871.5,
+        "overflow": "visible",
+        "height": "1871.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface min-h-screen pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 2095.5,
+        "overflow": "visible",
+        "height": "2095.5px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 2095.5,
+        "overflow": "visible",
+        "height": "2095.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "flex-grow",
+        "rectH": 2095.5,
+        "overflow": "visible",
+        "height": "2095.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 363,
+    "hiddenRevealCount": 21,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "home",
+    "route": "/",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Cynbit Technologies | AI Automation & Software Solutions Jaipur | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architecting the future withAI automation.Software dev.",
+      "rect": {
+        "x": 32,
+        "y": 205,
+        "w": 704,
+        "h": 226
+      },
+      "fontSize": 60,
+      "lineHeight": 66,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left"
+    },
+    "gradientSpans": [
+      {
+        "text": "AI automation.",
+        "cls": "absolute left-0 top-0 block w-full text-gradient-primary italic leading-[1.1] whitespace-nowrap pr-6",
+        "box": {
+          "x": 32,
+          "y": 271.7,
+          "w": 704,
+          "h": 74
+        },
+        "display": "block",
+        "fontSize": 60,
+        "lineHeight": 66,
+        "paddingBottom": "8px"
+      },
+      {
+        "text": "Software dev.",
+        "cls": "absolute left-0 top-0 block w-full text-gradient-primary italic leading-[1.1] whitespace-nowrap pr-6",
+        "box": {
+          "x": 32,
+          "y": 353.1,
+          "w": 704,
+          "h": 74
+        },
+        "display": "block",
+        "fontSize": 60,
+        "lineHeight": 66,
+        "paddingBottom": "8px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left",
+        "rectH": 226,
+        "overflow": "visible",
+        "height": "226px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 226,
+        "overflow": "visible",
+        "height": "226px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 226,
+        "overflow": "visible",
+        "height": "226px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-10 text-on-surface text-left",
+        "rectH": 586,
+        "overflow": "visible",
+        "height": "586px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center relative z-10 text-left",
+        "rectH": 586,
+        "overflow": "visible",
+        "height": "586px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-32 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+        "rectH": 842,
+        "overflow": "hidden",
+        "height": "842px",
+        "maxHeight": "none",
+        "paddingBottom": "128px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "overflow-hidden bg-surface text-left",
+        "rectH": 9679.2,
+        "overflow": "hidden",
+        "height": "9679.22px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 9679.2,
+        "overflow": "visible",
+        "height": "9679.22px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "900 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[400px] -mt-",
+        "overLeft": -168,
+        "overRight": 400,
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "tag": "div",
+        "cls": "absolute bottom-0 left-0 w-[800px] h-[800px] bg-secondary/5 rounded-full blur-[120px] -ml-[300px] -m",
+        "overLeft": 300,
+        "overRight": -268,
+        "w": 800,
+        "h": 800
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[4",
+        "w": 1000,
+        "h": 1000,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-2 h-2 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "w-[500px] h-[500px] bg-primary/20 rounded-full blur-[120px] animate-pulse",
+        "w": 0,
+        "h": 0,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(120px)",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 863,
+    "hiddenRevealCount": 51,
+    "cls": 0.0032,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "services",
+    "route": "/services",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "AI Automation & Software Development Services | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Built for ScaleDesigned for Performance",
+      "rect": {
+        "x": 32,
+        "y": 198,
+        "w": 704,
+        "h": 132
+      },
+      "fontSize": 60,
+      "lineHeight": 66,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-on-surface text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Scale",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 243.6,
+          "y": 198,
+          "w": 163.7,
+          "h": 66
+        },
+        "display": "inline-block",
+        "fontSize": 60,
+        "lineHeight": 66,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-on-surface text-balance",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8",
+        "rectH": 392.5,
+        "overflow": "visible",
+        "height": "392.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center relative z-10",
+        "rectH": 392.5,
+        "overflow": "visible",
+        "height": "392.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-24 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+        "rectH": 616.5,
+        "overflow": "hidden",
+        "height": "616.5px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left font-body",
+        "rectH": 6039,
+        "overflow": "hidden",
+        "height": "6039px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 6039,
+        "overflow": "visible",
+        "height": "6039px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[400px] -mt-",
+        "overLeft": -168,
+        "overRight": 400,
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[4",
+        "w": 1000,
+        "h": 1000,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-tertiary animate-ping",
+        "w": 12,
+        "h": 12,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 592,
+    "hiddenRevealCount": 39,
+    "cls": 0,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "products",
+    "route": "/products",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Proprietary Software Suite | Cynbit Studio, TenantEase & Revio | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "The Cynbit Product Ecosystem",
+      "rect": {
+        "x": 32,
+        "y": 202,
+        "w": 704,
+        "h": 132
+      },
+      "fontSize": 60,
+      "lineHeight": 66,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Cynbit Product",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 136.5,
+          "y": 202,
+          "w": 423.8,
+          "h": 66
+        },
+        "display": "inline-block",
+        "fontSize": 60,
+        "lineHeight": 66,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 388.5,
+        "overflow": "visible",
+        "height": "388.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center text-left",
+        "rectH": 388.5,
+        "overflow": "visible",
+        "height": "388.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 612.5,
+        "overflow": "visible",
+        "height": "612.5px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 9105.5,
+        "overflow": "hidden",
+        "height": "9105.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 9105.5,
+        "overflow": "visible",
+        "height": "9105.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 739,
+    "hiddenRevealCount": 35,
+    "cls": 0.0126,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "case-studies",
+    "route": "/case-studies",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Cynbit Technologies | AI Automation & Software Solutions Jaipur",
+    "h1": {
+      "tag": "h1",
+      "text": "From Challenge toScalable Solutions",
+      "rect": {
+        "x": 32,
+        "y": 202,
+        "w": 704,
+        "h": 132
+      },
+      "fontSize": 60,
+      "lineHeight": 66,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Scalable Solutions",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 32,
+          "y": 268,
+          "w": 502.7,
+          "h": 66
+        },
+        "display": "inline-block",
+        "fontSize": 60,
+        "lineHeight": 66,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 375.5,
+        "overflow": "visible",
+        "height": "375.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 375.5,
+        "overflow": "visible",
+        "height": "375.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 599.5,
+        "overflow": "visible",
+        "height": "599.5px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 5619.1,
+        "overflow": "hidden",
+        "height": "5619.06px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 5619.1,
+        "overflow": "visible",
+        "height": "5619.06px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 p-4 bg-white rounded-2xl shadow-xl border border-outline-variant/10",
+        "w": 0,
+        "h": 0,
+        "name": "float",
+        "duration": "6s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 705,
+    "hiddenRevealCount": 32,
+    "cls": 0,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "bitelevate",
+    "route": "/bitelevate",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "BitElevate: Remote Internships & Real-World Projects | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Stop Watching Tutorials. Start Doing the Work.",
+      "rect": {
+        "x": 32,
+        "y": 402.3,
+        "w": 704,
+        "h": 103.7
+      },
+      "fontSize": 48,
+      "lineHeight": 51.84,
+      "leading": 1.08,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-3xl sm:text-4xl md:text-5xl lg:text-[2.85rem] xl:text-[3.4rem] font-headline font-black tracking-tight leading-[1.08] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Start Doing the Work.",
+        "cls": "text-gradient-primary italic inline-block pr-2",
+        "box": {
+          "x": 32,
+          "y": 454.1,
+          "w": 490.6,
+          "h": 51.8
+        },
+        "display": "inline-block",
+        "fontSize": 48,
+        "lineHeight": 51.84,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-3xl sm:text-4xl md:text-5xl lg:text-[2.85rem] xl:text-[3.4rem] font-headline font-black tracking-tight leading-[1.08] text-balance",
+        "rectH": 103.7,
+        "overflow": "visible",
+        "height": "103.656px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "space-y-2 pt-0.5",
+        "rectH": 133.7,
+        "overflow": "visible",
+        "height": "133.656px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 133.7,
+        "overflow": "visible",
+        "height": "133.656px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 133.7,
+        "overflow": "visible",
+        "height": "133.656px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-3.5 sm:space-y-4 lg:space-y-4.5 text-on-surface",
+        "rectH": 431.9,
+        "overflow": "visible",
+        "height": "431.906px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl w-full mx-auto grid lg:grid-cols-12 gap-8 lg:gap-12 xl:gap-16 items-center relative z-10",
+        "rectH": 431.9,
+        "overflow": "visible",
+        "height": "431.906px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative min-h-screen lg:h-screen flex items-center justify-center pt-20 lg:pt-24 pb-4 lg:pb-6 px-4 md:px-8 lg:px-12 bg-surface overflow-hid",
+        "rectH": 1024,
+        "overflow": "hidden",
+        "height": "1024px",
+        "maxHeight": "none",
+        "paddingBottom": "16px",
+        "display": "flex"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 10469.5,
+        "overflow": "hidden",
+        "height": "10469.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "900 48px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 10.7,
+      "fontSize": 48
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[700px] h-[700px] lg:w-[900px] lg:h-[900px] bg-primary/5 rounded-full blur-",
+        "overLeft": -348,
+        "overRight": 280,
+        "w": 700,
+        "h": 700
+      },
+      {
+        "tag": "div",
+        "cls": "absolute bottom-0 left-0 w-[550px] h-[550px] lg:w-[700px] lg:h-[700px] bg-secondary/5 rounded-full b",
+        "overLeft": 220,
+        "overRight": -438,
+        "w": 550,
+        "h": 550
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[700px] h-[700px] lg:w-[900px] lg:h-[900px] bg-primary/5 rounded-",
+        "w": 700,
+        "h": 700,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 6,
+        "h": 6,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "span",
+        "cls": "animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75",
+        "w": 16,
+        "h": 16,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "span",
+        "cls": "animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75",
+        "w": 16,
+        "h": 16,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "span",
+        "cls": "w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse",
+        "w": 6,
+        "h": 6,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 1484,
+    "hiddenRevealCount": 35,
+    "cls": 0.042,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "bitelevate-paths",
+    "route": "/bitelevate/paths",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Design Your Own Career | Personalized Engineering Paths | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architect your own future.",
+      "rect": {
+        "x": 32,
+        "y": 198,
+        "w": 704,
+        "h": 114
+      },
+      "fontSize": 60,
+      "lineHeight": 57,
+      "leading": 0.95,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "font-headline text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold text-on-surface leading-[0.95] tracking-tighter"
+    },
+    "gradientSpans": [
+      {
+        "text": "own future",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 32,
+          "y": 246,
+          "w": 291.5,
+          "h": 75
+        },
+        "display": "inline",
+        "fontSize": 60,
+        "lineHeight": 57,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "font-headline text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold text-on-surface leading-[0.95] tracking-tighter",
+        "rectH": 114,
+        "overflow": "visible",
+        "height": "114px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "col-span-12 lg:col-span-8 space-y-8",
+        "rectH": 281,
+        "overflow": "visible",
+        "height": "281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "relative mb-20 md:mb-24 lg:mb-32 grid lg:grid-cols-12 gap-8 items-end",
+        "rectH": 281,
+        "overflow": "visible",
+        "height": "281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 281,
+        "overflow": "visible",
+        "height": "281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 281,
+        "overflow": "visible",
+        "height": "281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 pt-32 pb-24 overflow-hidden bg-surface text-left",
+        "rectH": 5208.7,
+        "overflow": "hidden",
+        "height": "5208.73px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 5208.7,
+        "overflow": "visible",
+        "height": "5208.73px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "flex-grow",
+        "rectH": 5208.7,
+        "overflow": "visible",
+        "height": "5208.73px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "h-full bg-primary w-1/3 animate-pulse",
+        "w": 207,
+        "h": 4,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute inset-0 bg-white/20 rounded-full blur-xl animate-pulse",
+        "w": 153,
+        "h": 56,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(24px)",
+        "position": "absolute"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 527,
+    "hiddenRevealCount": 30,
+    "cls": 0,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "contact",
+    "route": "/contact",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Contact Us | Cynbit Technologies - AI & Software Solutions | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Start Your Next Project With Us",
+      "rect": {
+        "x": 32,
+        "y": 269,
+        "w": 704,
+        "h": 132
+      },
+      "fontSize": 60,
+      "lineHeight": 66,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left italic"
+    },
+    "gradientSpans": [
+      {
+        "text": "Project",
+        "cls": "text-gradient-primary",
+        "box": {
+          "x": 32,
+          "y": 330,
+          "w": 202.1,
+          "h": 75
+        },
+        "display": "inline",
+        "fontSize": 60,
+        "lineHeight": 66,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left ",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 132,
+        "overflow": "visible",
+        "height": "132px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-10",
+        "rectH": 462.8,
+        "overflow": "visible",
+        "height": "462.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "grid lg:grid-cols-12 gap-16 lg:gap-24 items-center",
+        "rectH": 462.8,
+        "overflow": "visible",
+        "height": "462.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto relative z-10",
+        "rectH": 462.8,
+        "overflow": "visible",
+        "height": "462.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 md:pt-48 pb-24 px-4 md:px-8 lg:px-12 bg-surface",
+        "rectH": 750.8,
+        "overflow": "visible",
+        "height": "750.75px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 4942.5,
+        "overflow": "hidden",
+        "height": "4942.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "italic 900 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "w-2 h-2 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute w-[120%] h-[120%] border border-primary/5 rounded-full pointer-events-none animat",
+        "w": 0,
+        "h": 0,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute left-0 right-0 h-1 bg-primary/10 blur-md z-30 animate-[scan_6s_linear_infinite]",
+        "w": 0,
+        "h": 0,
+        "name": "scan",
+        "duration": "6s",
+        "willChange": "auto",
+        "filter": "blur(12px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-tertiary animate-ping",
+        "w": 12,
+        "h": 12,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "span",
+        "cls": "w-2 h-2 rounded-full bg-primary animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 513,
+    "hiddenRevealCount": 27,
+    "cls": 0.0039,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "blog",
+    "route": "/blog",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Insights & Ideas | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architecting knowledge.",
+      "rect": {
+        "x": 32,
+        "y": 190,
+        "w": 426.8,
+        "h": 120
+      },
+      "fontSize": 60,
+      "lineHeight": 60,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tighter text-on-surface leading-[1.0] font-headline"
+    },
+    "gradientSpans": [
+      {
+        "text": "knowledge",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 32,
+          "y": 242,
+          "w": 305.5,
+          "h": 75
+        },
+        "display": "inline",
+        "fontSize": 60,
+        "lineHeight": 60,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tighter text-on-surface leading-[1.0] font-headline",
+        "rectH": 120,
+        "overflow": "visible",
+        "height": "120px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-3xl",
+        "rectH": 182,
+        "overflow": "visible",
+        "height": "182px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "flex flex-col md:flex-row md:items-end justify-between gap-8 mb-12",
+        "rectH": 182,
+        "overflow": "visible",
+        "height": "182px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "flex"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 182,
+        "overflow": "visible",
+        "height": "182px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 182,
+        "overflow": "visible",
+        "height": "182px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "mb-20",
+        "rectH": 321,
+        "overflow": "visible",
+        "height": "321px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 pt-32 pb-24 overflow-hidden text-left bg-surface",
+        "rectH": 4315.5,
+        "overflow": "hidden",
+        "height": "4315.5px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 4315.5,
+        "overflow": "visible",
+        "height": "4315.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "span",
+        "cls": "material-symbols-outlined text-base font-bold animate-pulse ml-2",
+        "w": 24,
+        "h": 24,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 497,
+    "hiddenRevealCount": 22,
+    "cls": 0,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "careers",
+    "route": "/careers",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Careers | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Explore theopportunities at Cynbit",
+      "rect": {
+        "x": 32,
+        "y": 202,
+        "w": 704,
+        "h": 180
+      },
+      "fontSize": 60,
+      "lineHeight": 60,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0]"
+    },
+    "gradientSpans": [
+      {
+        "text": "opportunities",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 32,
+          "y": 254,
+          "w": 365.4,
+          "h": 75
+        },
+        "display": "inline",
+        "fontSize": 60,
+        "lineHeight": 60,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0]",
+        "rectH": 180,
+        "overflow": "visible",
+        "height": "180px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 180,
+        "overflow": "visible",
+        "height": "180px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 180,
+        "overflow": "visible",
+        "height": "180px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 373.8,
+        "overflow": "visible",
+        "height": "373.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 373.8,
+        "overflow": "visible",
+        "height": "373.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 597.8,
+        "overflow": "visible",
+        "height": "597.75px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "overflow-hidden bg-surface text-left",
+        "rectH": 6932.8,
+        "overflow": "hidden",
+        "height": "6932.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 6932.8,
+        "overflow": "visible",
+        "height": "6932.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 689,
+    "hiddenRevealCount": 46,
+    "cls": 0,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "impact",
+    "route": "/impact",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Social Impact | BitElevate & Manav Seva Trust Partnership | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Cynbit for Society",
+      "rect": {
+        "x": 32,
+        "y": 202,
+        "w": 704,
+        "h": 60
+      },
+      "fontSize": 60,
+      "lineHeight": 60,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Society",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 306.5,
+          "y": 194,
+          "w": 207.2,
+          "h": 75
+        },
+        "display": "inline",
+        "fontSize": 60,
+        "lineHeight": 60,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0] text-balance",
+        "rectH": 60,
+        "overflow": "visible",
+        "height": "60px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 60,
+        "overflow": "visible",
+        "height": "60px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 60,
+        "overflow": "visible",
+        "height": "60px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 345.8,
+        "overflow": "visible",
+        "height": "345.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 345.8,
+        "overflow": "visible",
+        "height": "345.75px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 569.8,
+        "overflow": "visible",
+        "height": "569.75px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 4175.3,
+        "overflow": "hidden",
+        "height": "4175.25px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 4175.3,
+        "overflow": "visible",
+        "height": "4175.25px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 456,
+    "hiddenRevealCount": 22,
+    "cls": 0,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "privacy",
+    "route": "/privacy",
+    "viewport": "tablet",
+    "width": 768,
+    "height": 1024,
+    "consoleErrors": [],
+    "title": "Privacy Policy | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Privacy Policy",
+      "rect": {
+        "x": 32,
+        "y": 181,
+        "w": 704,
+        "h": 60
+      },
+      "fontSize": 60,
+      "lineHeight": 60,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl font-headline font-extrabold tracking-tighter text-on-surface mb-6"
+    },
+    "gradientSpans": [
+      {
+        "text": "Policy",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 238,
+          "y": 173,
+          "w": 162.8,
+          "h": 75
+        },
+        "display": "inline",
+        "fontSize": 60,
+        "lineHeight": 60,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl font-headline font-extrabold tracking-tighter text-on-surface mb-6",
+        "rectH": 60,
+        "overflow": "visible",
+        "height": "60px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "mb-16",
+        "rectH": 161,
+        "overflow": "visible",
+        "height": "161px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 161,
+        "overflow": "visible",
+        "height": "161px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 161,
+        "overflow": "visible",
+        "height": "161px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-4xl mx-auto",
+        "rectH": 1930,
+        "overflow": "visible",
+        "height": "1930px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface min-h-screen pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 2154,
+        "overflow": "visible",
+        "height": "2154px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 2154,
+        "overflow": "visible",
+        "height": "2154px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "flex-grow",
+        "rectH": 2154,
+        "overflow": "visible",
+        "height": "2154px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 60px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 13.3,
+      "fontSize": 60
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 363,
+    "hiddenRevealCount": 20,
+    "cls": 0,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "home",
+    "route": "/",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Cynbit Technologies | AI Automation & Software Solutions Jaipur | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architecting the future withAI automation.Software dev.",
+      "rect": {
+        "x": 16,
+        "y": 205,
+        "w": 358,
+        "h": 130.4
+      },
+      "fontSize": 36,
+      "lineHeight": 39.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left"
+    },
+    "gradientSpans": [
+      {
+        "text": "AI automation.",
+        "cls": "absolute left-0 top-0 block w-full text-gradient-primary italic leading-[1.1] whitespace-nowrap pr-6",
+        "box": {
+          "x": 16,
+          "y": 239.9,
+          "w": 358,
+          "h": 47.6
+        },
+        "display": "block",
+        "fontSize": 36,
+        "lineHeight": 39.6,
+        "paddingBottom": "8px"
+      },
+      {
+        "text": "Software dev.",
+        "cls": "absolute left-0 top-0 block w-full text-gradient-primary italic leading-[1.1] whitespace-nowrap pr-6",
+        "box": {
+          "x": 16,
+          "y": 292.2,
+          "w": 358,
+          "h": 47.6
+        },
+        "display": "block",
+        "fontSize": 36,
+        "lineHeight": 39.6,
+        "paddingBottom": "8px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left",
+        "rectH": 130.4,
+        "overflow": "visible",
+        "height": "130.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 130.4,
+        "overflow": "visible",
+        "height": "130.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 130.4,
+        "overflow": "visible",
+        "height": "130.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-10 text-on-surface text-left",
+        "rectH": 617.4,
+        "overflow": "visible",
+        "height": "617.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center relative z-10 text-left",
+        "rectH": 617.4,
+        "overflow": "visible",
+        "height": "617.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-32 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+        "rectH": 873.4,
+        "overflow": "hidden",
+        "height": "873.375px",
+        "maxHeight": "none",
+        "paddingBottom": "128px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "overflow-hidden bg-surface text-left",
+        "rectH": 13579.9,
+        "overflow": "hidden",
+        "height": "13579.9px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 13579.9,
+        "overflow": "visible",
+        "height": "13579.9px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "900 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[400px] -mt-",
+        "overLeft": 210,
+        "overRight": 400,
+        "w": 1000,
+        "h": 1000
+      },
+      {
+        "tag": "div",
+        "cls": "absolute bottom-0 left-0 w-[800px] h-[800px] bg-secondary/5 rounded-full blur-[120px] -ml-[300px] -m",
+        "overLeft": 300,
+        "overRight": 110,
+        "w": 800,
+        "h": 800
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[4",
+        "w": 1000,
+        "h": 1000,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-2 h-2 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "w-[500px] h-[500px] bg-primary/20 rounded-full blur-[120px] animate-pulse",
+        "w": 0,
+        "h": 0,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(120px)",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 863,
+    "hiddenRevealCount": 52,
+    "cls": 0.018,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "services",
+    "route": "/services",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "AI Automation & Software Development Services | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Built for ScaleDesigned for Performance",
+      "rect": {
+        "x": 16,
+        "y": 198,
+        "w": 358,
+        "h": 118.8
+      },
+      "fontSize": 36,
+      "lineHeight": 39.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-on-surface text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Scale",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 143,
+          "y": 198,
+          "w": 104.6,
+          "h": 39.6
+        },
+        "display": "inline-block",
+        "fontSize": 36,
+        "lineHeight": 39.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-on-surface text-balance",
+        "rectH": 118.8,
+        "overflow": "visible",
+        "height": "118.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 118.8,
+        "overflow": "visible",
+        "height": "118.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 118.8,
+        "overflow": "visible",
+        "height": "118.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8",
+        "rectH": 398.8,
+        "overflow": "visible",
+        "height": "398.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center relative z-10",
+        "rectH": 398.8,
+        "overflow": "visible",
+        "height": "398.781px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-24 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+        "rectH": 622.8,
+        "overflow": "hidden",
+        "height": "622.781px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left font-body",
+        "rectH": 8278.5,
+        "overflow": "hidden",
+        "height": "8278.53px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 8278.5,
+        "overflow": "visible",
+        "height": "8278.53px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[400px] -mt-",
+        "overLeft": 210,
+        "overRight": 400,
+        "w": 1000,
+        "h": 1000
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[1000px] h-[1000px] bg-primary/5 rounded-full blur-[140px] -mr-[4",
+        "w": 1000,
+        "h": 1000,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-tertiary animate-ping",
+        "w": 12,
+        "h": 12,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 592,
+    "hiddenRevealCount": 39,
+    "cls": 0.0416,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "products",
+    "route": "/products",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Proprietary Software Suite | Cynbit Studio, TenantEase & Revio | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "The Cynbit Product Ecosystem",
+      "rect": {
+        "x": 16,
+        "y": 170,
+        "w": 358,
+        "h": 79.2
+      },
+      "fontSize": 36,
+      "lineHeight": 39.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Cynbit Product",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 78.7,
+          "y": 170,
+          "w": 260.7,
+          "h": 39.6
+        },
+        "display": "inline-block",
+        "fontSize": 36,
+        "lineHeight": 39.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 457.2,
+        "overflow": "visible",
+        "height": "457.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center text-left",
+        "rectH": 457.2,
+        "overflow": "visible",
+        "height": "457.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 649.2,
+        "overflow": "visible",
+        "height": "649.188px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 12003.2,
+        "overflow": "hidden",
+        "height": "12003.2px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 12003.2,
+        "overflow": "visible",
+        "height": "12003.2px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 739,
+    "hiddenRevealCount": 36,
+    "cls": 0.016,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "case-studies",
+    "route": "/case-studies",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Cynbit Technologies | AI Automation & Software Solutions Jaipur",
+    "h1": {
+      "tag": "h1",
+      "text": "From Challenge toScalable Solutions",
+      "rect": {
+        "x": 16,
+        "y": 170,
+        "w": 358,
+        "h": 79.2
+      },
+      "fontSize": 36,
+      "lineHeight": 39.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Scalable Solutions",
+        "cls": "text-gradient-primary italic inline-block pr-4",
+        "box": {
+          "x": 16,
+          "y": 209.6,
+          "w": 308,
+          "h": 39.6
+        },
+        "display": "inline-block",
+        "fontSize": 36,
+        "lineHeight": 39.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.1] text-balance",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 411.2,
+        "overflow": "visible",
+        "height": "411.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 411.2,
+        "overflow": "visible",
+        "height": "411.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 603.2,
+        "overflow": "visible",
+        "height": "603.188px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 8579.9,
+        "overflow": "hidden",
+        "height": "8579.94px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 8579.9,
+        "overflow": "visible",
+        "height": "8579.94px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 p-4 bg-white rounded-2xl shadow-xl border border-outline-variant/10",
+        "w": 0,
+        "h": 0,
+        "name": "float",
+        "duration": "6s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 705,
+    "hiddenRevealCount": 33,
+    "cls": 0.0087,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "bitelevate",
+    "route": "/bitelevate",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "BitElevate: Remote Internships & Real-World Projects | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Stop Watching Tutorials. Start Doing the Work.",
+      "rect": {
+        "x": 16,
+        "y": 267.4,
+        "w": 358,
+        "h": 64.8
+      },
+      "fontSize": 30,
+      "lineHeight": 32.4,
+      "leading": 1.08,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-3xl sm:text-4xl md:text-5xl lg:text-[2.85rem] xl:text-[3.4rem] font-headline font-black tracking-tight leading-[1.08] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Start Doing the Work.",
+        "cls": "text-gradient-primary italic inline-block pr-2",
+        "box": {
+          "x": 16,
+          "y": 299.8,
+          "w": 309.6,
+          "h": 32.4
+        },
+        "display": "inline-block",
+        "fontSize": 30,
+        "lineHeight": 32.4,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-3xl sm:text-4xl md:text-5xl lg:text-[2.85rem] xl:text-[3.4rem] font-headline font-black tracking-tight leading-[1.08] text-balance",
+        "rectH": 64.8,
+        "overflow": "visible",
+        "height": "64.7812px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "space-y-2 pt-0.5",
+        "rectH": 90.8,
+        "overflow": "visible",
+        "height": "90.7812px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 90.8,
+        "overflow": "visible",
+        "height": "90.7812px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 90.8,
+        "overflow": "visible",
+        "height": "90.7812px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-3.5 sm:space-y-4 lg:space-y-4.5 text-on-surface",
+        "rectH": 533.3,
+        "overflow": "visible",
+        "height": "533.281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl w-full mx-auto grid lg:grid-cols-12 gap-8 lg:gap-12 xl:gap-16 items-center relative z-10",
+        "rectH": 533.3,
+        "overflow": "visible",
+        "height": "533.281px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative min-h-screen lg:h-screen flex items-center justify-center pt-20 lg:pt-24 pb-4 lg:pb-6 px-4 md:px-8 lg:px-12 bg-surface overflow-hid",
+        "rectH": 844,
+        "overflow": "hidden",
+        "height": "844px",
+        "maxHeight": "none",
+        "paddingBottom": "16px",
+        "display": "flex"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 12253.8,
+        "overflow": "hidden",
+        "height": "12253.8px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "900 30px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 6.7,
+      "fontSize": 30
+    },
+    "clippedCandidates": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[700px] h-[700px] lg:w-[900px] lg:h-[900px] bg-primary/5 rounded-full blur-",
+        "overLeft": 30,
+        "overRight": 280,
+        "w": 700,
+        "h": 700
+      },
+      {
+        "tag": "div",
+        "cls": "absolute bottom-0 left-0 w-[550px] h-[550px] lg:w-[700px] lg:h-[700px] bg-secondary/5 rounded-full b",
+        "overLeft": 220,
+        "overRight": -60,
+        "w": 550,
+        "h": 550
+      }
+    ],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "absolute top-0 right-0 w-[700px] h-[700px] lg:w-[900px] lg:h-[900px] bg-primary/5 rounded-",
+        "w": 700,
+        "h": 700,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(140px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 5,
+        "h": 6,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "span",
+        "cls": "animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75",
+        "w": 16,
+        "h": 16,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "span",
+        "cls": "animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75",
+        "w": 16,
+        "h": 16,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "span",
+        "cls": "w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse",
+        "w": 6,
+        "h": 6,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 1484,
+    "hiddenRevealCount": 35,
+    "cls": 0.117,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "bitelevate-paths",
+    "route": "/bitelevate/paths",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Design Your Own Career | Personalized Engineering Paths | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architect your own future.",
+      "rect": {
+        "x": 16,
+        "y": 198,
+        "w": 358,
+        "h": 68.4
+      },
+      "fontSize": 36,
+      "lineHeight": 34.2,
+      "leading": 0.95,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "font-headline text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold text-on-surface leading-[0.95] tracking-tighter"
+    },
+    "gradientSpans": [
+      {
+        "text": "own future",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 16,
+          "y": 226.2,
+          "w": 174.9,
+          "h": 45
+        },
+        "display": "inline",
+        "fontSize": 36,
+        "lineHeight": 34.2,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "font-headline text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold text-on-surface leading-[0.95] tracking-tighter",
+        "rectH": 68.4,
+        "overflow": "visible",
+        "height": "68.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "col-span-12 lg:col-span-8 space-y-8",
+        "rectH": 287.4,
+        "overflow": "visible",
+        "height": "287.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "relative mb-20 md:mb-24 lg:mb-32 grid lg:grid-cols-12 gap-8 items-end",
+        "rectH": 287.4,
+        "overflow": "visible",
+        "height": "287.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 287.4,
+        "overflow": "visible",
+        "height": "287.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 287.4,
+        "overflow": "visible",
+        "height": "287.375px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 pt-32 pb-24 overflow-hidden bg-surface text-left",
+        "rectH": 4781.6,
+        "overflow": "hidden",
+        "height": "4781.61px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 4781.6,
+        "overflow": "visible",
+        "height": "4781.61px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "flex-grow",
+        "rectH": 4781.6,
+        "overflow": "visible",
+        "height": "4781.61px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "h-full bg-primary w-1/3 animate-pulse",
+        "w": 97,
+        "h": 4,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute inset-0 bg-white/20 rounded-full blur-xl animate-pulse",
+        "w": 128,
+        "h": 56,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "blur(24px)",
+        "position": "absolute"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 527,
+    "hiddenRevealCount": 31,
+    "cls": 0.0087,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "contact",
+    "route": "/contact",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Contact Us | Cynbit Technologies - AI & Software Solutions | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Start Your Next Project With Us",
+      "rect": {
+        "x": 16,
+        "y": 205,
+        "w": 358,
+        "h": 79.2
+      },
+      "fontSize": 36,
+      "lineHeight": 39.6,
+      "leading": 1.1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left italic"
+    },
+    "gradientSpans": [
+      {
+        "text": "Project",
+        "cls": "text-gradient-primary",
+        "box": {
+          "x": 16,
+          "y": 241.6,
+          "w": 121.3,
+          "h": 45
+        },
+        "display": "inline",
+        "fontSize": 36,
+        "lineHeight": 39.6,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-black tracking-tighter leading-[1.1] text-on-surface text-balance text-left ",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 79.2,
+        "overflow": "visible",
+        "height": "79.1875px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-10",
+        "rectH": 540.2,
+        "overflow": "visible",
+        "height": "540.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "grid lg:grid-cols-12 gap-16 lg:gap-24 items-center",
+        "rectH": 540.2,
+        "overflow": "visible",
+        "height": "540.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto relative z-10",
+        "rectH": 540.2,
+        "overflow": "visible",
+        "height": "540.188px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 md:pt-48 pb-24 px-4 md:px-8 lg:px-12 bg-surface",
+        "rectH": 764.2,
+        "overflow": "visible",
+        "height": "764.188px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 5267.4,
+        "overflow": "hidden",
+        "height": "5267.44px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "italic 900 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "div",
+        "cls": "w-2 h-2 rounded-full bg-on-tertiary-fixed animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute w-[120%] h-[120%] border border-primary/5 rounded-full pointer-events-none animat",
+        "w": 0,
+        "h": 0,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "absolute left-0 right-0 h-1 bg-primary/10 blur-md z-30 animate-[scan_6s_linear_infinite]",
+        "w": 0,
+        "h": 0,
+        "name": "scan",
+        "duration": "6s",
+        "willChange": "auto",
+        "filter": "blur(12px)",
+        "position": "absolute"
+      },
+      {
+        "tag": "div",
+        "cls": "w-1.5 h-1.5 rounded-full bg-tertiary animate-ping",
+        "w": 12,
+        "h": 12,
+        "name": "ping",
+        "duration": "1s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      },
+      {
+        "tag": "span",
+        "cls": "w-2 h-2 rounded-full bg-primary animate-pulse",
+        "w": 8,
+        "h": 8,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 513,
+    "hiddenRevealCount": 28,
+    "cls": 0.0101,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "blog",
+    "route": "/blog",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Insights & Ideas | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Architecting knowledge.",
+      "rect": {
+        "x": 16,
+        "y": 190,
+        "w": 358,
+        "h": 72
+      },
+      "fontSize": 36,
+      "lineHeight": 36,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tighter text-on-surface leading-[1.0] font-headline"
+    },
+    "gradientSpans": [
+      {
+        "text": "knowledge",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 16,
+          "y": 221,
+          "w": 183.3,
+          "h": 45
+        },
+        "display": "inline",
+        "fontSize": 36,
+        "lineHeight": 36,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tighter text-on-surface leading-[1.0] font-headline",
+        "rectH": 72,
+        "overflow": "visible",
+        "height": "72px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-3xl",
+        "rectH": 134,
+        "overflow": "visible",
+        "height": "134px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "flex flex-col md:flex-row md:items-end justify-between gap-8 mb-12",
+        "rectH": 220,
+        "overflow": "visible",
+        "height": "220px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "flex"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 220,
+        "overflow": "visible",
+        "height": "220px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 220,
+        "overflow": "visible",
+        "height": "220px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "mb-20",
+        "rectH": 402,
+        "overflow": "visible",
+        "height": "402px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 pt-32 pb-24 overflow-hidden text-left bg-surface",
+        "rectH": 5532,
+        "overflow": "hidden",
+        "height": "5532px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 5532,
+        "overflow": "visible",
+        "height": "5532px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [
+      {
+        "tag": "span",
+        "cls": "material-symbols-outlined text-base font-bold animate-pulse ml-2",
+        "w": 24,
+        "h": 24,
+        "name": "pulse",
+        "duration": "2s",
+        "willChange": "auto",
+        "filter": "none",
+        "position": "static"
+      }
+    ],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 497,
+    "hiddenRevealCount": 22,
+    "cls": 0.0087,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "careers",
+    "route": "/careers",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Careers | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Explore theopportunities at Cynbit",
+      "rect": {
+        "x": 16,
+        "y": 170,
+        "w": 358,
+        "h": 108
+      },
+      "fontSize": 36,
+      "lineHeight": 36,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0]"
+    },
+    "gradientSpans": [
+      {
+        "text": "opportunities",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 16,
+          "y": 201,
+          "w": 219.3,
+          "h": 45
+        },
+        "display": "inline",
+        "fontSize": 36,
+        "lineHeight": 36,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0]",
+        "rectH": 108,
+        "overflow": "visible",
+        "height": "108px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 108,
+        "overflow": "visible",
+        "height": "108px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 108,
+        "overflow": "visible",
+        "height": "108px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 318,
+        "overflow": "visible",
+        "height": "318px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 318,
+        "overflow": "visible",
+        "height": "318px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-24 md:pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 510,
+        "overflow": "visible",
+        "height": "510px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "overflow-hidden bg-surface text-left",
+        "rectH": 10272.3,
+        "overflow": "hidden",
+        "height": "10272.2px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 10272.3,
+        "overflow": "visible",
+        "height": "10272.2px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 689,
+    "hiddenRevealCount": 48,
+    "cls": 0.0087,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "impact",
+    "route": "/impact",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Social Impact | BitElevate & Manav Seva Trust Partnership | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Cynbit for Society",
+      "rect": {
+        "x": 16,
+        "y": 202,
+        "w": 358,
+        "h": 36
+      },
+      "fontSize": 36,
+      "lineHeight": 36,
+      "leading": 1,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0] text-balance"
+    },
+    "gradientSpans": [
+      {
+        "text": "Society",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 180.7,
+          "y": 197,
+          "w": 124.3,
+          "h": 45
+        },
+        "display": "inline",
+        "fontSize": 36,
+        "lineHeight": 36,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-headline font-extrabold tracking-tighter leading-[1.0] text-balance",
+        "rectH": 36,
+        "overflow": "visible",
+        "height": "36px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 36,
+        "overflow": "visible",
+        "height": "36px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 36,
+        "overflow": "visible",
+        "height": "36px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "lg:col-span-7 space-y-8 text-on-surface",
+        "rectH": 338,
+        "overflow": "visible",
+        "height": "338px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-screen-2xl mx-auto grid lg:grid-cols-12 gap-12 lg:gap-24 items-center",
+        "rectH": 338,
+        "overflow": "visible",
+        "height": "338px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "grid"
+      },
+      {
+        "tag": "section",
+        "cls": "relative pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 562,
+        "overflow": "visible",
+        "height": "562px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "bg-surface overflow-hidden text-left",
+        "rectH": 4301.3,
+        "overflow": "hidden",
+        "height": "4301.25px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 4301.3,
+        "overflow": "visible",
+        "height": "4301.25px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 456,
+    "hiddenRevealCount": 23,
+    "cls": 0.0481,
+    "reducedMotionRule": false
+  },
+  {
+    "page": "privacy",
+    "route": "/privacy",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "consoleErrors": [],
+    "title": "Privacy Policy | Cynbit Technologies | Cynbit Technologies",
+    "h1": {
+      "tag": "h1",
+      "text": "Privacy Policy",
+      "rect": {
+        "x": 16,
+        "y": 181,
+        "w": 358,
+        "h": 40
+      },
+      "fontSize": 36,
+      "lineHeight": 40,
+      "leading": 1.11,
+      "padding": "0px 0px 0px 0px",
+      "display": "block",
+      "overflow": "visible",
+      "color": "rgb(24, 28, 29)",
+      "bgImage": "none",
+      "bgClip": "border-box",
+      "fill": "rgb(24, 28, 29)",
+      "cls": "text-4xl md:text-6xl font-headline font-extrabold tracking-tighter text-on-surface mb-6"
+    },
+    "gradientSpans": [
+      {
+        "text": "Policy",
+        "cls": "text-gradient-primary italic",
+        "box": {
+          "x": 139.6,
+          "y": 178,
+          "w": 97.7,
+          "h": 45
+        },
+        "display": "inline",
+        "fontSize": 36,
+        "lineHeight": 40,
+        "paddingBottom": "0px"
+      }
+    ],
+    "ancestors": [
+      {
+        "tag": "h1",
+        "cls": "text-4xl md:text-6xl font-headline font-extrabold tracking-tighter text-on-surface mb-6",
+        "rectH": 40,
+        "overflow": "visible",
+        "height": "40px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "header",
+        "cls": "mb-16",
+        "rectH": 141,
+        "overflow": "visible",
+        "height": "141px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 141,
+        "overflow": "visible",
+        "height": "141px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 141,
+        "overflow": "visible",
+        "height": "141px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "max-w-4xl mx-auto",
+        "rectH": 2364.5,
+        "overflow": "visible",
+        "height": "2364.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "bg-surface min-h-screen pt-32 pb-24 px-4 md:px-8 lg:px-12",
+        "rectH": 2588.5,
+        "overflow": "visible",
+        "height": "2588.5px",
+        "maxHeight": "none",
+        "paddingBottom": "96px",
+        "display": "block"
+      },
+      {
+        "tag": "div",
+        "cls": "",
+        "rectH": 2588.5,
+        "overflow": "visible",
+        "height": "2588.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      },
+      {
+        "tag": "main",
+        "cls": "flex-grow",
+        "rectH": 2588.5,
+        "overflow": "visible",
+        "height": "2588.5px",
+        "maxHeight": "none",
+        "paddingBottom": "0px",
+        "display": "block"
+      }
+    ],
+    "fontInk": {
+      "font": "800 36px \"Plus Jakarta Sans\", \"Plus Jakarta Sans Fallback\", system-ui, arial, sans-serif, \"Plus Jakarta Sans\", sans-serif",
+      "actualDescent": 8,
+      "fontSize": 36
+    },
+    "clippedCandidates": [],
+    "animations": [],
+    "svgCount": 0,
+    "canvasCount": 0,
+    "videoCount": 0,
+    "domNodes": 363,
+    "hiddenRevealCount": 21,
+    "cls": 0.0087,
+    "reducedMotionRule": false
+  }
+]

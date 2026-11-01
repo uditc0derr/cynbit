@@ -1,0 +1,82 @@
+[
+  {
+    "name": "live",
+    "inView": {
+      "hero": "section.relative pt-32 pb-32 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+      "heroRect": {
+        "top": 0,
+        "height": 981
+      },
+      "elements": 58,
+      "inlineChanged": 9,
+      "computedChanged": 9,
+      "changedProperties": {
+        "opacity": 1,
+        "transform": 7,
+        "top": 1,
+        "width": 1
+      },
+      "animations": 4,
+      "runningAnimations": 4,
+      "pausedAnimations": 0,
+      "dataPaused": null,
+      "dataStatic": null
+    },
+    "offscreen": {
+      "hero": "section.relative pt-32 pb-32 px-4 md:px-8 lg:px-12 overflow-hidden bg-surface",
+      "heroRect": {
+        "top": -7826,
+        "height": 981
+      },
+      "elements": 59,
+      "inlineChanged": 9,
+      "computedChanged": 9,
+      "changedProperties": {
+        "opacity": 1,
+        "transform": 7,
+        "top": 1,
+        "width": 1
+      },
+      "animations": 2,
+      "runningAnimations": 2,
+      "pausedAnimations": 0,
+      "dataPaused": null,
+      "dataStatic": null
+    }
+  },
+  {
+    "name": "prototype",
+    "inView": {
+      "hero": "section.page-hero page-hero--split page-hero--cool",
+      "heroRect": {
+        "top": 71,
+        "height": 851
+      },
+      "elements": 71,
+      "inlineChanged": 0,
+      "computedChanged": 13,
+      "changedProperties": {},
+      "animations": 14,
+      "runningAnimations": 13,
+      "pausedAnimations": 0,
+      "dataPaused": "false",
+      "dataStatic": "false"
+    },
+    "offscreen": {
+      "hero": "section.page-hero page-hero--split page-hero--cool",
+      "heroRect": {
+        "top": -2028,
+        "height": 851
+      },
+      "elements": 71,
+      "inlineChanged": 0,
+      "computedChanged": 0,
+      "changedProperties": {},
+      "animations": 14,
+      "runningAnimations": 0,
+      "pausedAnimations": 13,
+      "dataPaused": "true",
+      "dataStatic": "false"
+    }
+  }
+]

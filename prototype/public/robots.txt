@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Interview prototype. Not the production Cynbit site.

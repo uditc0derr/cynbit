@@ -1,0 +1,257 @@
+{
+  "windowMs": 5000,
+  "results": [
+    {
+      "target": "live",
+      "url": "https://www.cynbit.in/",
+      "inView": {
+        "label": "in-view",
+        "seconds": 5,
+        "taskMs": 190,
+        "scriptMs": 24,
+        "layoutMs": 15,
+        "styleMs": 41,
+        "layoutCount": 145,
+        "styleCount": 145,
+        "fps": 28,
+        "longFrames": 2,
+        "maxFrameMs": 50.1
+      },
+      "offscreen": {
+        "label": "offscreen",
+        "seconds": 5,
+        "taskMs": 978,
+        "scriptMs": 138,
+        "layoutMs": 83,
+        "styleMs": 257,
+        "layoutCount": 301,
+        "styleCount": 301,
+        "fps": 120,
+        "longFrames": 0,
+        "maxFrameMs": 16.8
+      },
+      "changes": {
+        "durationMs": 1203,
+        "changedElements": 16,
+        "inlinePropertyChanges": {
+          "transform": 13,
+          "width": 2,
+          "top": 1
+        },
+        "cssAnimationCount": 5,
+        "cssAnimations": [
+          {
+            "name": "pulse",
+            "playState": "running",
+            "properties": [
+              "opacity"
+            ],
+            "target": "div.absolute.top-0"
+          },
+          {
+            "name": "pulse",
+            "playState": "running",
+            "properties": [
+              "opacity"
+            ],
+            "target": "div.w-2.h-2"
+          },
+          {
+            "name": "pulse",
+            "playState": "running",
+            "properties": [
+              "opacity"
+            ],
+            "target": "div.w-[500px].h-[500px]"
+          },
+          {
+            "name": "Animation",
+            "playState": "running",
+            "properties": [
+              "opacity"
+            ],
+            "target": "div.absolute.w-[500px]"
+          },
+          {
+            "name": "Animation",
+            "playState": "running",
+            "properties": [
+              "opacity"
+            ],
+            "target": "div.absolute.w-[650px]"
+          }
+        ]
+      },
+      "reducedMotion": {
+        "label": "reduced-motion",
+        "seconds": 5,
+        "taskMs": 161,
+        "layoutCount": 146,
+        "styleCount": 146,
+        "fps": 26,
+        "cssAnimationCount": 7
+      }
+    },
+    {
+      "target": "prototype",
+      "url": "http://127.0.0.1:4174/",
+      "inView": {
+        "label": "in-view",
+        "seconds": 5,
+        "taskMs": 19,
+        "scriptMs": 2,
+        "layoutMs": 0,
+        "styleMs": 5,
+        "layoutCount": 2,
+        "styleCount": 23,
+        "fps": 60,
+        "longFrames": 0,
+        "maxFrameMs": 16.8
+      },
+      "offscreen": {
+        "label": "offscreen",
+        "seconds": 5,
+        "taskMs": 82,
+        "scriptMs": 8,
+        "layoutMs": 0,
+        "styleMs": 0,
+        "layoutCount": 0,
+        "styleCount": 0,
+        "fps": 120,
+        "longFrames": 0,
+        "maxFrameMs": 16.8
+      },
+      "changes": {
+        "durationMs": 1203,
+        "changedElements": 0,
+        "inlinePropertyChanges": {},
+        "cssAnimationCount": 14,
+        "cssAnimations": [
+          {
+            "name": "word-in",
+            "playState": "finished",
+            "properties": [
+              "opacity",
+              "transform"
+            ],
+            "target": "span.word-rotator__word.word-rotator__word--in"
+          },
+          {
+            "name": "orbit-spin",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__ring-layer.orbit__ring-layer--slow"
+          },
+          {
+            "name": "orbit-spin",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__ring-layer.orbit__ring-layer--reverse"
+          },
+          {
+            "name": "orbit-scan",
+            "playState": "running",
+            "properties": [
+              "opacity",
+              "transform"
+            ],
+            "target": "span.orbit__scan"
+          },
+          {
+            "name": "orbit-satellite",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite"
+          },
+          {
+            "name": "orbit-counter",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite-chip"
+          },
+          {
+            "name": "orbit-satellite",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite"
+          },
+          {
+            "name": "orbit-counter",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite-chip"
+          },
+          {
+            "name": "orbit-satellite",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite"
+          },
+          {
+            "name": "orbit-counter",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite-chip"
+          },
+          {
+            "name": "orbit-satellite",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite"
+          },
+          {
+            "name": "orbit-counter",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__satellite-chip"
+          },
+          {
+            "name": "orbit-float",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__note.orbit__note--a"
+          },
+          {
+            "name": "orbit-float",
+            "playState": "running",
+            "properties": [
+              "transform"
+            ],
+            "target": "div.orbit__note.orbit__note--b"
+          }
+        ]
+      },
+      "reducedMotion": {
+        "label": "reduced-motion",
+        "seconds": 5,
+        "taskMs": 0,
+        "layoutCount": 0,
+        "styleCount": 0,
+        "fps": 60.3,
+        "cssAnimationCount": 1
+      }
+    }
+  ]
+}

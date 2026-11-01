@@ -1,0 +1,180 @@
+{
+  "source": "evidence/after/descenders-proto",
+  "note": "lostPixelsBelowBox counts ink a solid text reference paints below the element's background box that the shipped gradient does not paint.",
+  "totals": {
+    "spans": 4,
+    "spansWithLoss": 0,
+    "lostBelowBox": 0,
+    "solidBelowBox": 1346
+  },
+  "rows": [
+    {
+      "route": "/",
+      "name": "prototype-home",
+      "spanIndex": 0,
+      "text": "AI automation.",
+      "switchedText": "AI automation.",
+      "textStable": true,
+      "display": "block",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": 11.2896,
+      "opacity": 1,
+      "rect": {
+        "x": 43.1875,
+        "y": 390.5625,
+        "w": 626.96875,
+        "h": 119.46875
+      },
+      "clip": {
+        "x": 35,
+        "y": 381,
+        "width": 643,
+        "height": 172
+      },
+      "before": "evidence/after/descenders-proto/prototype-home-0-ai-automation--shipped.png",
+      "after": "evidence/after/descenders-proto/prototype-home-0-ai-automation--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 510.03,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 82277,
+      "solidInkBelowBox": 0,
+      "lostPixels": 0,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders-proto/prototype-home-0-ai-automation--lost.png"
+    },
+    {
+      "route": "/impact",
+      "name": "prototype-impact",
+      "spanIndex": 0,
+      "text": "Society",
+      "switchedText": "Society",
+      "textStable": true,
+      "display": "inline-block",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": 11.2896,
+      "opacity": 1,
+      "rect": {
+        "x": 43.1875,
+        "y": 365.375,
+        "w": 328.15625,
+        "h": 119.46875
+      },
+      "clip": {
+        "x": 35,
+        "y": 355,
+        "width": 345,
+        "height": 172
+      },
+      "before": "evidence/after/descenders-proto/prototype-impact-0-society--shipped.png",
+      "after": "evidence/after/descenders-proto/prototype-impact-0-society--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 484.84,
+      "background": [
+        247,
+        248,
+        246
+      ],
+      "solidInkPixels": 47584,
+      "solidInkBelowBox": 399,
+      "lostPixels": 633,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders-proto/prototype-impact-0-society--lost.png"
+    },
+    {
+      "route": "/privacy",
+      "name": "prototype-privacy",
+      "spanIndex": 0,
+      "text": "Policy",
+      "switchedText": "Policy",
+      "textStable": true,
+      "display": "inline-block",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": 11.2896,
+      "opacity": 1,
+      "rect": {
+        "x": 754.34375,
+        "y": 257.1875,
+        "w": 258.0625,
+        "h": 119.46875
+      },
+      "clip": {
+        "x": 746,
+        "y": 247,
+        "width": 275,
+        "height": 172
+      },
+      "before": "evidence/after/descenders-proto/prototype-privacy-0-policy--shipped.png",
+      "after": "evidence/after/descenders-proto/prototype-privacy-0-policy--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 376.66,
+      "background": [
+        247,
+        250,
+        250
+      ],
+      "solidInkPixels": 37624,
+      "solidInkBelowBox": 357,
+      "lostPixels": 641,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders-proto/prototype-privacy-0-policy--lost.png"
+    },
+    {
+      "route": "/system",
+      "name": "prototype-system",
+      "spanIndex": 0,
+      "text": "Every page.",
+      "switchedText": "Every page.",
+      "textStable": true,
+      "display": "inline-block",
+      "fontSize": 94.08,
+      "lineHeight": 108.192,
+      "leading": 1.15,
+      "paddingBottom": 11.2896,
+      "opacity": 1,
+      "rect": {
+        "x": 467.484375,
+        "y": 365.375,
+        "w": 505.03125,
+        "h": 119.46875
+      },
+      "clip": {
+        "x": 459,
+        "y": 355,
+        "width": 522,
+        "height": 172
+      },
+      "before": "evidence/after/descenders-proto/prototype-system-0-every-page--shipped.png",
+      "after": "evidence/after/descenders-proto/prototype-system-0-every-page--solid.png",
+      "imageScale": 2.0,
+      "paintBoxBottomCss": 484.84,
+      "background": [
+        241,
+        246,
+        247
+      ],
+      "solidInkPixels": 68952,
+      "solidInkBelowBox": 590,
+      "lostPixels": 0,
+      "lostPixelsBelowBox": 0,
+      "lostPercentOfBelowBox": 0.0,
+      "deepestLostBelowBoxCss": 0,
+      "annotated": "evidence/after/descenders-proto/prototype-system-0-every-page--lost.png"
+    }
+  ]
+}

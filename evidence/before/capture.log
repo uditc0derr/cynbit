@@ -1,0 +1,12 @@
+✓ desktop /                  fps=60 p95=16.7 cls=0.0065 kb=1703 h1=96/105.6 grad=2 clippedEls=3 hidden=52 rm=false
+✓ desktop /services          fps=60 p95=16.8 cls=0.0043 kb=1689 h1=96/105.6 grad=1 clippedEls=2 hidden=39 rm=false
+✓ desktop /products          fps=60 p95=16.7 cls=0.0032 kb=1692 h1=96/105.6 grad=1 clippedEls=0 hidden=35 rm=false
+✓ desktop /case-studies      fps=54 p95=16.7 cls=0.0032 kb=2838 h1=96/105.6 grad=1 clippedEls=0 hidden=33 rm=false
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+browser.newContext: Target page, context or browser has been closed
+    at /Users/uditpandey/Developer/cynbittech/audit/async file:/Users/uditpandey/Developer/cynbittech/audit/capture2.mjs:34:21
+
+Node.js v22.17.1
